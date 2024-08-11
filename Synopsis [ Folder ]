@@ -1,0 +1,203 @@
+<!-- ------ ------ ------ ------
+   
+   : Code by Kunstmaskin : Synopsis : bootstrap + custom mix
+   
+   
+  Please follow my TOS, thank you ! <3
+   
+   ›› Do not redistribute this code. Ever.
+   ›› Feel free to frankenstein with credit, if others allow so. HOWEVER, I do not allow code uploads.
+   ›› Please do not hide, or remove the credit section, thank you.
+   
+   
+       ♪      Colours      ♪
+   › Background  ——————— #f3f3ea
+   › Borders  —————————— black
+   › Dividers  ————————— #4c494b
+   › Middle Divider ———— #696969
+   
+   I'm more than happy to provide answers in the comments or DMs, 
+   should you have any questions or issues :] 
+   
+   ------ ------ ------ ------ --> 
+
+
+<div class="container p-0" style="max-width: 80pc">
+  <div class="card" style="background: #f3f3ea; min-height: 400px; max-width: 80pc; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; border: inset 6px black">
+
+
+  <!-- -- TITLE; any length -- -->
+  <p class="text-center text-dark mt-2" 
+  style="margin-top: ; font-family: times; font-size: 2em">
+    
+    AMBITIOUS TITLE
+    
+    </p>
+  <div class="card mx-4" style="margin-top: 18px; border-color: #4c494b">
+</div>
+   
+   
+  <!-- -- DESCRIPTION; can be any length, but looks best if its 27 words or more -- -->
+  <div class="container">
+    <p class="text-center text-dark mt-2 mx-auto" style="max-width: 60pc">
+      Summary here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, libero nulla. Tempore vitae architecto ea culpa soluta aut asperiores laborum unde officia distinctio alias dolorem dolor molestiae velit, sit veniam.</p>
+    </div>
+    
+    
+  <!-- -- HEADER IMAGE  +  ICON -- -->
+        <div class="card mx-4" style="margin-top: 10px; border-color: #4c494b">
+          
+      <!-- FONTAWSOME ICON; just replace "star" in "fa-star" to the icon name you desire :) 
+          ( you can find them at https://fontawesome.com/search ) -->
+  </div><i class="fa fa-star text-dark mx-auto mt-2"></i>
+    
+      <!-- IMAGE URL; replace link with yours -->
+    <div class="card mx-4 h-100 mt-2 rounded-0" style="background-image: url(
+
+https://images.unsplash.com/photo-1518563077661-23ad56581d77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMHNlYXxlbnwwfHwwfHw%3D&w=1000&q=80
+
+    ); background-position: center; background-size: cover; min-height: 160px; border: inset 4px black">
+      <span style="position: absolute; bottom: -1px; font-size: 12px; color: white">
+        
+      <!-- IMAGE SOURCE / CREDIT -->
+      <a href="URL_LINK_HERE" style="color: inherit">[soruce]</a>
+      </span>
+    </div>
+<!---- -- ---- ---- ---- ---- ---- ---- -- ---->
+    
+    
+    
+  <!-- -- TAG / GENRE; add or remove as many as you like, elements will adjust
+         ( keep in mind, the space inbetween increases the fewer tag pills you have ) -- -->
+    <div class="container text-center mx-auto" style="max-width: 640px; margin-top: 12px; color: white">
+      <div class="row text-center mx-auto  mb-2 mb-md-0  mt-2 mt-md-1 justify-content-center">
+        
+          <!-- -1- -->
+    <span class="bagde badge-pill bg-dark mr-1 my-1 tooltipster" style="font-size:14px;  padding: 2px 12px; margin-right: 4px"
+    title="Tag / genre description content.">
+<i class="fal fa-hashtag mr-1 py-1"></i>Genre Tag 1</span>
+
+
+          <!-- -2- -->
+    <span class="bagde badge-pill bg-dark mr-1 my-1 tooltipster" style="font-size:14px; padding: 2px 12px;"
+    title="Tag / genre description content.">
+<i class="fal fa-hashtag mr-1"></i>Genre Tag 2</span>
+
+
+          <!-- -3- -->
+    <span class="bagde badge-pill bg-dark mr-1 my-1 tooltipster" style="font-size:14px; padding: 2px 12px;"
+    title="Tag / genre description content.">
+<i class="fal fa-hashtag mr-1"></i>Genre Tag 3</span>
+
+
+          <!-- -4- -->
+    <span class="bagde badge-pill bg-dark mr-1 my-1 tooltipster" style="font-size:14px; padding: 2px 12px;"
+    title="Tag / genre description content.">
+<i class="fal fa-hashtag mr-1"></i>Genre Tag 4</span>
+
+
+          <!-- -5- -->
+    <span class="bagde badge-pill bg-dark mr-1 my-1 tooltipster" style="font-size:14px; padding: 2px 12px;"
+    title="Tag / genre description content.">
+<i class="fal fa-hashtag mr-1"></i>Genre Tag 5</span>
+
+<!---- v paste below v ----> 
+
+
+<!---- ^ paste above ^ ----> 
+</div>
+  </div>
+    </div>
+<!---- -- ---- ---- ---- ---- ---- ---- -- ---->
+    
+    
+<hr class="m-2" style="border: dashed 1px #696969">
+  <!-- -- DIVIDER; IGNORE -- -->
+<div class="card mt-1 rounded-0" style="background: #f3f3ea; min-height: 240px; max-width: 80pc; border: inset 6px black">
+  
+  
+  <!-- -- CHARACTERS / PROFILES; add or remove as many as you like, elements will adjust -- -->
+      <div class="card border-0 bg-transparent py-4 px-0 mx-0 col-16  px-md-5 mx-md-5" style="color: white"><div class="row no-gutters">
+        
+     <!-- (!);
+              1: Swap the image link with yours.
+              2: At "URL_LINK_HERE" apply your character link.
+              3: inside the quotations under title=, write the info you need,
+                 or remove [ title="character name or title" ] completley for no text-hover effect -->
+        
+        
+        <!-- -- CHARACTER ONE (1) -- -->
+  <div class="card rounded-0 h-100 mx-auto mb-1 mt-1" style="min-width: 200px; background-image: url(
+  
+https://i.pinimg.com/564x/9b/e1/6c/9be16cfc34db392a9be5354a79492ac8.jpg
+
+  ); background-position: center; background-size: cover; background-size: cover; border: inset 4px black">
+    <a href="URL_LINK_HERE"  title="Character name or title."
+    
+    class="btn btn-outline-secondary border-0 tooltipster" style="opacity: 0.4; cursor:pointer;mix-blend-mode:color-dodge; height: 296px"></a>
+    <span class="text-center p-1" style="background-color: rgba(40,40,40, 0.86); font-family: times; letter-spacing: 2px; font-style: italic; font-variant: small-caps;">
+      Title Here</span>
+    </div>
+<!---- ---- ---- ---->
+     
+     
+        <!-- -- CHARACTER TWO (2) -- -->
+  <div class="card rounded-0 h-100 mx-auto mb-1 mt-1" style="min-width: 200px; background-image: url(
+  
+https://i.pinimg.com/564x/5a/64/41/5a6441cff772e38115099e90d73e16b0.jpg
+  
+  ); background-position: center; background-size: cover; background-size: cover; border: inset 4px black">
+    <a href="URL_LINK_HERE"  title="Character name or title."
+    
+    class="btn btn-outline-secondary border-0 tooltipster" style="opacity: 0.4; cursor:pointer;mix-blend-mode:color-dodge; height: 296px"></a>
+    <span class="text-center p-1" style="background-color: rgba(40,40,40, 0.86); font-family: times; letter-spacing: 2px; font-style: italic; font-variant: small-caps;">
+      Title Here</span>
+    </div>
+<!---- ---- ---- ---->
+     
+     
+        <!-- -- CHARACTER THREE (3) -- -->
+  <div class="card rounded-0 h-100 mx-auto mb-1 mt-1" style="min-width: 200px; background-image: url(
+https://i.pinimg.com/564x/06/04/79/06047923e6e107456dd5d14c2b36df71.jpg
+  
+  ); background-position: center; background-size: cover; background-size: cover; border: inset 4px black">
+    <a href="URL_LINK_HERE"  title="Character name or title."
+    
+    class="btn btn-outline-secondary border-0 tooltipster" style="opacity: 0.4; cursor:pointer;mix-blend-mode:color-dodge; height: 296px"></a>
+    <span class="text-center p-1" style="background-color: rgba(40,40,40, 0.86); font-family: times; letter-spacing: 2px; font-style: italic; font-variant: small-caps;">
+      Title Here</span>
+    </div>
+<!---- ---- ---->
+    
+    
+        <!-- -- CHARACTER FOUR (4) -- -->
+  <div class="card rounded-0 h-100 mx-auto mb-1 mt-1" style="min-width: 200px; background-image: url(
+  
+https://i.pinimg.com/564x/40/a7/f3/40a7f3331f2e56dc4890a1c78cf5621d.jpg
+  
+  ); background-position: center; background-size: cover; background-size: cover; border: inset 4px black">
+    <a href="URL_LINK_HERE"  title="Character name or title."
+    
+    class="btn btn-outline-secondary border-0 tooltipster" style="opacity: 0.4; cursor:pointer;mix-blend-mode:color-dodge; height: 296px"></a>
+    <span class="text-center p-1" style="background-color: rgba(40,40,40, 0.86); font-family: times; letter-spacing: 2px; font-style: italic; font-variant: small-caps;">
+      Title Here</span>
+    </div>
+<!---- ---- ---- ---->
+
+
+<!---- v paste below v ----> 
+
+
+
+<!---- ^ paste above ^ ----> 
+    </div>
+  </div>
+</div>
+<!---- -- ---- ---- ---- ---- ---- ---- -- ---->
+
+
+<!-------- : CREDIT : please do not remove : -------->   
+  <a href="/Kunstmaskin" class="tooltipster text-warning pull-right" title="Code by Kunstmaskin">
+    <i class="far fa-paw-claws text-muted pull-right p-1" style="transform: rotate(12deg); opacity: .76; font-size: 14px"></i></a>
+    <hr class="m-4" style="opacity: .009">
+<!---- -- ---- \\ CODE END \\ ---- -- ---->
