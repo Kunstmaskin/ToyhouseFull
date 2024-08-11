@@ -1,0 +1,965 @@
+<!-- ------ ------ ------ ------
+   
+   : Code by Kunstmaskin : TEAM EFFORT : More Gun (team red)
+   
+   
+  Please follow my TOS, thank you ! <3
+   
+   ›› Do not redistribute this code. Ever.
+   ›› For this particular code, I dont't allow frankenstein'ing with others. Personal edits and snippets is fine!
+   ›› Please do not hide, or remove the credit section, thank you.
+   
+   
+   I'm more than happy to provide answers in the comments or DMs, 
+   should you have any questions or issues :] 
+   
+COLOURS:
+   › Card frame  ——————— #9d312f
+   › Background  ——————— #281915
+   › Titles ———————————— #c4bfa1
+   › Text  ————————————— white
+   › Info cards  ——————— #726255 & #806e59
+   › Cards  ———————————— #3b241f
+   › Dividers  ————————— #c24b47
+   
+   ------ ------ ------ ------ --> 
+
+<div class="container-fluid p-0 my-4" align="center" 
+style="max-width: 980px; font-size: 16px">
+
+<!-- SIDEBAR -->
+<div class="col-md-10">
+  <div class="row">
+  
+  <div class="card rounded-0 bg-faded" style="width:3px; max-height: 285px">
+</div>
+ 
+<!-- NAVIGATION -->
+<div class="p-2 col-sm-4 col-md-2 mx-sm-auto mx-md-0" style="min-width: 140px">
+  <ul class="nav d-inline">
+<li><a class="btn btn-outline-danger active my-0 nav-link" data-toggle="tab" href="#tab-1">
+  <span class="pull-left">
+  <i class="fal fa-person-through-window fa-xl"></i></span> INTRO
+   </a>
+     </li>
+<li><a class="btn btn-outline-danger my-3 nav-link" data-toggle="tab" href="#tab-2">
+  <span class="pull-left">
+  <i class="fal fa-tools fa-xl"></i></span> CLASS
+   </a>
+     </li>
+<li><a class="btn btn-outline-danger my-3 nav-link" data-toggle="tab" href="#tab-3">
+  <span class="pull-left">
+  <i class="fal fa-info-circle fa-xl"></i></span> ABOUT
+   </a>
+     </li>
+<li><a class="btn btn-outline-danger my-3 nav-link" data-toggle="tab" href="#tab-4">
+  <span class="pull-left">
+  <i class="fal fa-book-bookmark fa-xl"></i></span> HISTORY
+   </a>
+     </li>
+<li><a class="btn btn-outline-danger mt-3 nav-link" data-toggle="tab" href="#tab-5">
+  <span class="pull-left">
+  <i class="fal fa-champagne-glasses fa-xl"></i></span> SOCIAL
+   </a>
+     </li>
+   </ul>
+<!-------- : CREDIT : please do not remove : -------->   
+   <a href="/kunstmaskin"><i class="far fa-paw-claws tooltipster mt-3 mx-auto text-danger" title="Code by Kunstmaskin" data-placement="bottom" style="font-size:10px"> CODE</i></a>
+</div>
+<!-- -------------------- -->
+
+<div class="card col-md-10 rounded-0 pb-4" style="max-width: 554px; height: auto; border-top: solid 2px #80746c; background: #9d312f">
+
+
+
+
+<!-- ------ TAB " INTRO " ------ -->
+  <div class="tab-content">
+ <div class="tab-pane fade show active" id="tab-1">
+
+
+<!-- ---- QUOTE HERE; or anything you want really, a title? -->
+  <p class="py-2" style="color:white"><i class="far fa-quote-left fa-xs mx-2" style="opacity: .6;"></i>
+  
+    Pretend I said something <em>really</em> cool. 
+    
+  <i class="far fa-quote-right fa-xs mx-2" style="opacity: .6"></i></p>
+
+  <div class="card p-2 rounded-0" style="box-shadow: inset 2px 2px 5px #0f0e0b; border-bottom: double 1px #666; border-right: double 1px #666; background: #281915">
+  <div class="row no-gutters">
+    
+    
+ <!-- -- IMAGE, INSERT YOUR URL; to add border, remove border-0 in class -->  
+  <div class="card col-sm-6 col-md-4 mr-md-2 border-0" style="background-image: url(
+  
+https://dummyimage.com/400x800
+  
+  ); background-position: center; background-size: cover; height: 340px; min-width: 200px; border: double 1px #9D8175; background-color: #a89b8b">
+    </div>
+<!-- ------ -->
+
+  <div class="card py-2 col-sm-6 col-md-7 mt-md-0 mt-sm-3" style="border: double 1px #9D8175; background: #806e59">
+    
+    
+ <!-- ---- INFO ---- -->
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Full name:</span>
+      <span class="pull-right" style="color: #faf7eb"> info
+      </span>
+    </div><hr class="m-1" style="border-color: #49352d">
+    
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Alias:</span>
+      <span class="pull-right" style="color: #faf7eb"> info
+      </span>
+    </div><hr class="m-1" style="border-color: #49352d">
+    
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Age:</span>
+      <span class="pull-right" style="color: #faf7eb"> info
+      </span>
+    </div><hr class="m-1" style="border-color: #49352d">
+
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Gender:</span>
+      <span class="pull-right" style="color: #faf7eb"> info
+      </span>
+    </div><hr class="m-1" style="border-color: #49352d">
+    
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> DOB:</span>
+      <span class="pull-right" style="color: #faf7eb"> info
+      </span>
+    </div><hr class="m-1" style="border-color: #49352d">
+    
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Height:</span>
+      <span class="pull-right" style="color: #faf7eb"> info
+      </span>
+    </div><hr class="m-1" style="border-color: #49352d">
+    
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Orientation:</span>
+      <span class="pull-right" style="color: #faf7eb"> info
+      </span>
+    </div><hr class="m-1" style="border-color: #49352d">
+    
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Nationality:</span>
+      <span class="pull-right" style="color: #faf7eb"> info
+      </span>
+    </div><hr class="m-1" style="border-color: #49352d">
+    
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Place of origin:</span>
+      <span class="pull-right" style="color: #faf7eb"> info
+      </span>
+    </div><hr class="m-1" style="border-color: #49352d">
+    
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Languages:</span>
+      <span class="pull-right" style="color: #faf7eb"> info
+      </span>
+    </div>
+  </div>
+<!-- ------ -->  
+
+  <div class="container mx-auto mt-2">
+    
+ <!-- ---- MUSIC ---- --> 
+    <p class="mb-0 pt-2" align="center" style="letter-spacing:2px; color: #f1ecda">
+         Song Title
+       </p>
+      <p class="mb-1" align="center" style="font-size:15px; text-shadow: 0px 0px 1px #98a69c; color: #876648">
+         Artist
+       </p>
+<!-- MUSIC BAR -->
+    <div style="width:90%; height:10px; border-radius:4px; padding:0.8px; padding-top:1.4px; background: #574837">
+
+<!-- MUSIC BAR PROGRESS -->
+    <div class="pull-left" style="margin-left:1px; height:90%; border-bottom-left-radius:3px; border-top-left-radius:3px; background: #806e59; width:42%">
+  </div>
+</div>
+<a class="btn mt-1 justify-content-center" style="font-size:14px; color:#876648">
+ <i class="fad fa-backward fa-fw mr-3"></i>
+  <i class="fad fa-play fa-fw fa-fade" style="animation-duration: 2s;"></i>
+   <i class="fad fa-forward fa-fw ml-3"></i></a>
+
+
+ <!-- -- MUSIC PLAYER;
+  ( How to get a Youtube video ID:
+    hit the share button on a youtube video, and copy the numbers and letters after https://youtu.be/  )
+
+        -- change "VIDEO_ID_HERE" to the youtube ID -->
+<iframe src="https://www.youtube.com/embed/VIDEO_ID_HERE" style="width:100%; height:60%; position:absolute; bottom:0; left:0; right:0; opacity:.001;" frameborder="0"></iframe>
+    </div>
+ </div>
+</div>
+
+<!-- ------------ TAB "INTRO" END ------------ -->
+
+
+
+
+   <div class="tab-content"> 
+</div>
+ </div>
+<!-- ------ TAB " CLASS " ------ -->
+ <div class="tab-pane fade" id="tab-2">
+  
+  <p class="py-2" style="color: white">COMPANY NAME</p>
+  
+  <div class="card p-2 rounded-0" style="box-shadow: inset 2px 2px 5px #0f0e0b; border-bottom: double 1px #666; border-right: double 1px #666; background: #281915">
+<!-- ------ -->  
+
+  <div class="row no-gutters">
+  <div class="card py-3 col-sm-8" style="border: solid 1px #9D8175; background: #726255">
+    
+    
+ <!-- ---- CLASS INFO ---- -->
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Class:</span>
+      <span class="pull-right" style="color: #faf7eb"> title
+      </span>
+    </div><hr class="m-1" style="border-color: #49352d">
+    
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Team:</span>
+      <span class="pull-right" style="color: #faf7eb"> Red/Blue
+      </span>
+    </div><hr class="m-1" style="border-color: #49352d">
+    
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Role:</span>
+      <span class="pull-right" style="color: #faf7eb"> Defence/etc
+      </span>
+    </div><hr class="m-1" style="border-color: #49352d">
+    
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Health:</span>
+      <span class="pull-right" style="color: #faf7eb"> data
+      </span>
+    </div><hr class="m-1" style="border-color: #49352d">
+
+    <div class="px-3 justify-content-between">
+      <span style="font-weight: 500; color: #c4bfa1"> Speed:</span>
+      <span class="pull-right" style="color: #faf7eb"> data
+      </span>
+    </div>
+ </div>
+<!-- ------ -->  
+
+
+ <!-- ---- ICON ---- -->  
+<!-- -- YOUR URL; to get rid of the background, remove "bg-secondary" -->
+  <div class="card rounded-circle col-sm-5 my-auto mx-auto border-0" style="background-image: url(
+  
+  https://static.vecteezy.com/system/resources/previews/001/206/198/original/mountain-icon-png.png
+  
+  ); background-position: bottom; background-size: cover; height: 125px; max-width: 125px; background-color: #806e59">
+    </div>
+  <div class="card mt-2 bg-transparent border-0" style="border: solid 1px #9D8175;">
+
+
+ <!-- ---- SKILLS ---- -->  
+<div class="py-1 card w-100 border-0 bg-transparent">
+  
+<!-- -- STRAT -->
+      <span style="font-weight: 500; color: #c4bfa1"> Strategy</span>
+    <hr class="m-1" style="border-color: #c24b47">
+      <span class="pull-right" style="font-size: 12px; color: white">
+        Describe how your character is best utilized here.
+        <br> Praesent a posuere neque. Nulla et commodo eros, id viverra metus. Sed lorem est, condimentum a aliquet vitae, cursus vitae lectus.
+    </span>
+  </div>
+
+<div class="row no-gutters">
+<div class="mt-2 py-1 card w-100 col-md-6 mx-auto border-0 bg-transparent">
+  
+<!-- -- COUNTERS -->
+      <span style="font-weight: 500; color: #c4bfa1"> Counters</span>
+    <hr class="m-1" style="border-color: #c24b47">
+  <ul style="margin-left: 0; padding:0; list-style-type:none; font-size: 12px; color: white">
+    
+    <li><i class="far fa-hand-back-point-right pr-1" style="color: #58b359"></i>
+        Classes that are weak against your character.</li>
+
+    <li><i class="far fa-hand-back-point-right pr-1" style="color: #58b359"></i>
+        info here</li>
+
+    <li><i class="far fa-hand-back-point-right pr-1" style="color: #58b359"></i>
+        info here</li>
+      </ul>
+    </div>
+
+<div class="mt-2 py-1 card w-100 col-md-6 mx-auto border-0 bg-transparent">
+  
+<!-- -- COUNTERED -->
+      <span style="font-weight: 500; color: #c4bfa1"> Countered</span>
+    <hr class="m-1" style="border-color: #c24b47">
+  <ul style="margin-left: 0; padding:0; list-style-type:none; font-size: 12px; color: white">
+    
+    <li><i class="far fa-hand-back-point-right pr-1" style="color: #dda145"></i>
+        Classes that could wreak havoc on your character.</li>
+
+    <li><i class="far fa-hand-back-point-right pr-1" style="color: #dda145"></i>
+        info here</li>
+
+    <li><i class="far fa-hand-back-point-right pr-1" style="color: #dda145"></i>
+        info here</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<!-- ------ -->
+
+<div class="card mt-2 col-md-12" style="border: inset 2px #9D8175; background: #726255">
+<div class="row no-gutters">
+  
+<div class="py-1 card w-100 border-0 mx-auto col bg-transparent">
+  
+<!-- -- ABILITY -->
+      <span style="font-weight: 500; color: #c4bfa1"> Special Ability</span>
+    <hr class="m-1" style="border-color: #49352d">
+      <span class="pull-right" style="color: white"> data
+    </span></div>
+
+
+ <!-- ---- WEAPONS ---- -->
+<div class="py-1 card w-100 border-0 mx-auto col bg-transparent">
+  
+<!-- -- LOADOUT -->
+      <span style="font-weight: 500; color: #c4bfa1"> Default Loadout</span>
+    <hr class="m-1" style="border-color: #49352d">
+      <span class="pull-right" style="color: white"> data / data / data
+    </span></div>
+  </div>
+</div>
+
+  <div class="card mt-2 col-md-12 border-0 bg-transparent" style="border: solid 1px #9D8175;">
+  <div class="row no-gutters">
+
+<div class="py-1 card w-100 border-0 mx-auto col-md-4 bg-transparent">
+  
+<!-- -- danger; add as many positives and downsides as you want -->
+      <span style="font-weight: 500; color: #c4bfa1"> Primary</span>
+<!-- ---- ITEM ONE -->
+    <hr class="m-2" style="border-color: #c24b47">
+    <span style="color: white">Name</span>
+      <span style="font-size: 12px; color: #717984"> ammo, or etc
+       </span>
+      <span style="font-size: 12px; color: #dda145"> Damage / Crit Damage
+       </span>
+
+      <span style="font-size: 12px; color: #58b359"> Positives
+       </span>
+
+      <span style="font-size: 12px; color: #d9534f"> Downsides
+       </span>
+
+  <!-- - - - to add more items, copy from here - - - --> 
+<!-- ---- ITEM TWO -->   
+    <hr class="m-1" style="border-color: #9D8175; opacity: .3">
+    <span style="color: white">Name</span>
+      <span style="font-size: 12px; color: #717984"> ammo, or etc
+       </span>
+      <span style="font-size: 12px; color: #dda145"> Damage / Crit Damage
+       </span>
+
+      <span style="font-size: 12px; color: #58b359"> Positives
+       </span>
+
+      <span style="font-size: 12px; color: #d9534f"> Downsides
+       </span>
+  <!-- - - - end copy here - - - -->   
+
+<!-- v paste below v -->
+
+
+<!-- ^ paste above ^ -->
+    </div>
+
+<div class="py-1 card w-100 mx-auto col-md-4 rounded-0 bg-transparent" style="border-left: solid 1px #9D8175; border-top: 0;  border-bottom: 0;  border-right: 0">
+  
+<!-- -- SECONDARY -->
+      <span style="font-weight: 500; color: #c4bfa1"> Secondary</span>
+<!-- ---- ITEM ONE-TWO -->  
+    <hr class="m-2" style="border-color: #c24b47">
+    <span style="color: white">Name</span>
+      <span style="font-size: 12px; color: #717984"> info, ammo, or etc
+       </span>
+      <span style="font-size: 12px; color: #dda145"> Damage / Crit Damage
+       </span>
+
+      <span style="font-size: 12px; color: #58b359"> Positives
+       </span>
+
+      <span style="font-size: 12px; color: #d9534f"> Downsides
+       </span>
+
+<!-- ---- ITEM TWO-TWO -->   
+    <hr class="m-1" style="border-color: #9D8175; opacity: .3">
+    <span style="color: white">Name</span>
+      <span style="font-size: 12px; color: #717984"> info, ammo or etc
+       </span>
+      <span style="font-size: 12px; color: #dda145"> Damage / Crit Damage
+       </span>
+
+      <span style="font-size: 12px; color: #58b359"> Positives
+       </span>
+
+      <span style="font-size: 12px; color: #d9534f"> Downsides
+       </span>
+
+<!-- v paste below v -->
+
+
+<!-- ^ paste above ^ --> 
+    </div>
+
+<div class="py-1 card w-100 mx-auto col-md-4 rounded-0 bg-transparent" style="border-left: solid 1px #9D8175; border-top: 0;  border-bottom: 0;  border-right: 0">
+  
+<!-- -- MELEE -->
+      <span style="font-weight: 500; color: #c4bfa1"> Melee</span>
+<!-- ---- ITEM ONE-THREE --> 
+    <hr class="m-2" style="border-color: #c24b47">
+    <span style="color: white">Name</span>
+      <span style="font-size: 12px; color: #717984"> info, or etc
+       </span>
+      <span style="font-size: 12px; color: #dda145"> Damage / Crit Damage
+       </span>
+       
+      <span style="font-size: 12px; color: #58b359"> Positives
+       </span>
+       
+      <span style="font-size: 12px; color: #d9534f"> Downsides
+       </span>
+
+<!-- ---- ITEM TWO-THREE -->   
+    <hr class="m-1" style="border-color: #9D8175; opacity: .3">
+    <span style="color: white">Name</span>
+      <span style="font-size: 12px; color: #717984"> info, or etc
+       </span>
+      <span style="font-size: 12px; color: #dda145"> Damage / Crit Damage
+       </span>
+       
+      <span style="font-size: 12px; color: #58b359"> Positives
+       </span>
+       
+      <span style="font-size: 12px; color: #d9534f"> Downsides
+       </span>
+
+<!-- v paste below v -->
+
+
+<!-- ^ paste above ^ --> 
+    </div>
+  </div>
+</div>
+<!-- ------ --> 
+
+
+ <!-- -- BUTTONS; you can remove these if you don't want them -- -->
+ 
+                  <!-- >(cut from here)< -->
+  <div class="row mx-auto col-md-4">
+<!-- ---- ONE -->
+    <a class="btn btn-outline-danger mt-2 w-100" style="background: #726255; border-color: #9d312f; color: #c4bfa1"
+data-toggle="collapse" href="#VoLi">Voice Lines</a>
+</div>
+<!-- ---- -->
+  <div class="collapse fade p-3 col-sm-12" id="VoLi" style="position:absolute; bottom:50px; left:0; z-index:2;">
+     <div class="justify-content-center">
+<!-- pop-up -->
+        <a data-toggle="collapse" href="#VoLi" class="mx-lg-5 pl-lg-2 text-danger" style="position:absolute; top:-6px; right:-5px; z-index:3; color: white; font-weight: 600">
+          <i class="fa-regular fa-rectangle-xmark"></i> Close</a>
+ 
+     <div class="row align-items-center">
+  <div class="card p-3 h-100" style="border: double 1px #808080; box-shadow: inset 2px 2px 5px #0f0e0b; border-radius:10px; max-width:440px; min-width:440px; max-height: 600px; overflow-y: auto; background: #BCAB95; color: #A23925">
+
+   <!-- ---- VOICE LINES -- -->
+<ul class="m-1 text-left" style="list-style-type: disc">
+   <li style="list-style-type: none;">
+  Title example; Kill assist
+  </li>
+ <li class="mb-2" style="color: #49352d">
+"Ut bibendum sem magna, eget viverra turpis egestas porttitor."
+   </li>
+ <li class="mb-2" style="color: #49352d">
+"Ut bibendum sem magna, eget viverra turpis egestas porttitor."
+   </li>
+ <li class="mb-2" style="color: #49352d">
+"Ut bibendum sem magna, eget viverra turpis egestas porttitor."
+   </li>
+   
+   <li style="border-top: solid 1px #9D8175; list-style-type: none;" class="mt-3 pt-2">
+   Title example; Healed by Medic
+   </li>
+ <li class="mb-2" style="color: #49352d">
+"Ut bibendum sem magna, eget viverra turpis egestas porttitor."
+   </li>
+ <li class="mb-2" style="color: #49352d">
+"Ut bibendum sem magna, eget viverra turpis egestas porttitor."
+   </li>
+   
+   <li style="border-top: solid 1px #9D8175; list-style-type: none;" class="mt-3 pt-2">
+   Title
+   </li>
+ <li class="mb-2" style="color: #49352d">
+"Ut bibendum sem magna, eget viverra turpis egestas porttitor."
+   </li>
+ <li class="mb-2" style="color: #49352d">
+"Ut bibendum sem magna, eget viverra turpis egestas porttitor."
+   </li>
+   
+<!-- LIST END; if you add more, add above -->
+  </ul>
+</div>
+
+     </div>
+  </div>
+</div>
+<!-- -------------- --> 
+
+
+<!-- ---- TWO -->
+  <div class="row mx-auto col-md-4">
+    <a class="btn btn-outline-danger mx-1 mt-2 w-100" style="background: #726255; border-color: #9d312f; color: #c4bfa1"
+data-toggle="collapse" href="#Ta">Taunts</a>
+</div>
+
+<!-- ---- -->
+  <div class="collapse fade p-3 col-sm-12" id="Ta" style="position:absolute; bottom:50px; left:0; z-index:2;">
+     <div class="justify-content-center">
+<!-- pop-up -->
+        <a data-toggle="collapse" href="#Ta" class="mx-lg-5 pl-lg-2 text-danger" style="position:absolute; top:-6px; right:-5px; z-index:3; color: white; font-weight: 600">
+          <i class="fa-regular fa-rectangle-xmark"></i> Close</a>
+ 
+     <div class="row align-items-center">
+  <div class="card p-3 h-100" style="border: double 1px #808080; box-shadow: inset 2px 2px 5px #0f0e0b; border-radius:10px; max-width:440px; min-width:440px; max-height: 600px; overflow-y: auto; background: #BCAB95; color: #A23925">
+
+   <!-- ---- TAUNTS -- -->
+<ul class="m-1 text-left" style="list-style-type: circle">
+ <li>
+  Taunt name
+  </li>
+   <li style="list-style-type: none; color: #49352d">
+   Description here, Praesent eget dictum tellus.</li>
+   
+ <li style="border-top: solid 1px #9D8175" class="mt-2">
+  Taunt name
+  </li>
+   <li style="list-style-type: none; color: #49352d">
+   Description here, Praesent eget dictum tellus.</li>
+   
+ <li style="border-top: solid 1px #9D8175" class="mt-2" >
+  Taunt name
+  </li>
+   <li style="list-style-type: none; color: #49352d">
+   Description here, Praesent eget dictum tellus.</li>
+
+ <li style="border-top: solid 1px #9D8175" class="mt-2" >
+  Taunt name
+  </li>
+   <li style="list-style-type: none; color: #49352d">
+   Description here, Praesent eget dictum tellus.</li>
+   
+<!-- LIST END; if you add more, add above -->
+  </ul>
+</div>
+
+     </div>
+  </div>
+</div>
+<!-- -------------- --> 
+
+
+<!-- ---- THREE -->
+  <div class="row mx-auto col-md-4">
+    <a class="btn btn-outline-danger mt-2 w-100" style="background: #726255; border-color: #9d312f; color: #c4bfa1"
+href="YOUR_LINK_HERE">Your link</a>
+</div>
+
+                  <!-- >(cut to here)< -->
+
+ </div>
+  </div>
+<!-- ------------ TAB "CLASS" END ------------ -->
+
+
+
+
+   <div class="tab-content"> 
+</div>
+ </div>
+<!-- ------ TAB " ABOUT " ------ -->
+ <div class="tab-pane fade" id="tab-3">
+
+   <p class="py-2" style="color: white">PROFILE</p>
+ <div class="card p-2 rounded-0 bg-muted" style="box-shadow: inset 2px 2px 5px #0f0e0b; border-bottom: double 1px #666; border-right: double 1px #666; background: #281915">
+<!-- ------ --> 
+  <div class="row no-gutters">
+    <div class="card m-md-1 mx-sm-auto" style="width: 200px; height: 230px; transform: rotate(-3deg); box-shadow: 1px 1px 3px #111; background: #3b241f; border-color: #674D4B">
+    
+    
+<!-- -- IMAGE, INSERT YOUR URL -->
+     <div class="card bg-light mx-2 my-2" style="width: 180px; height: 180px; transform: rotate(-0.3deg); background-image: url(
+    
+https://media.moddb.com/images/mods/1/28/27905/hl2ru_tf2_02.jpg
+    
+    ); background-position: center; background-size: cover;">
+
+<!-- -- IMAGE FILTER;
+        you can change the overlay image to whatever you like, or remove it -->
+                  <!-- >(cut from here)< -->
+      <img src="https://fixthephoto.com/images/content/film-scratches-overlay-free-cover1613402998.jpg" style="width: 180px; height: 180px; mix-blend-mode: difference; opacity: .6">
+                  <!-- >(cut to here)< -->
+    </div>
+ </div>
+
+<div class="card py-2 col-md-7 col-sm-6 mx-auto border-0 bg-transparent">
+ 
+ 
+ <!-- ---- CHARACTERISTICS ---- -->
+      <span style="font-weight: 500; color: #c4bfa1"> Personality</span>
+      <hr class="m-1" style="border-color: #c24b47">
+
+<!-- -- PERSONALITY -->
+      <span class="align-center p-2" style="font-size: 12px; line-height: 1.7em; color: white">
+         Write something about them here, can be any length, short or long. Ut labore et dolore magna aliqua. Euismod quis viverra nibh cras pulvinar.
+         
+         Nunc sed velit dignissim sodales ut eu sem. Porta non pulvinar neque laoreet suspendisse interdum. Blandit aliquam etiam erat velit scelerisque in dictum non consectetur. A scelerisque purus semper eget duis. Ut sem nulla pharetra diam sit. Eu non diam phasellus vestibulum.
+      </span>
+    </div>
+ </div>
+
+<!-- -- TRAITS -->
+<div class="mx-1 mt-2 p-1" style="border: inset 2px #9D8175; color: #c4bfa1">
+  <i class="fa-regular fa-sparkles mx-1" style="transform: rotate(15deg)"></i>
+    Defining trait  /  Defining trait  /  Defining trait 
+  <i class="fa-regular fa-sparkles mx-1" style="transform: rotate(-15deg) scaleX(-1)"></i>
+</div>
+<!-- ------ --> 
+
+<div class="row no-gutters">
+<div class="mt-2 py-1 card w-100 col-md-6 mx-auto border-0 bg-transparent">
+  
+  <i class="fad fa-circle-heart fa-xl" style="transform:rotate(-20deg); position:absolute; margin-left: .3em; margin-top: .5em; opacity: .6; color: #c24b47"></i>
+  
+<!-- -- LIKES -->
+      <span style="font-weight: 500; color: #c4bfa1"> Likes</span>
+    <hr class="m-1" style="border-color: #c24b47">
+  <ul style="margin-left: 0; padding:0; list-style-type:none; font-size: 12px; color: white">
+    
+    <li>
+        data, in pellentesque</li>
+        
+    <li><hr class="m-1" style="border-color: #9D8175; opacity: .3">
+        data, euismod</li>
+        
+    <li><hr class="m-1" style="border-color: #9D8175; opacity: .3">
+        data, facilisi morbi tempus</li>
+      </ul>
+    </div>
+
+<div class="mt-2 py-1 card w-100 col-md-6 mx-auto border-0 bg-transparent">
+  
+  <i class="fad fa-circle-xmark fa-xl" style="transform:rotate(20deg); position:absolute; margin-left: 9em; margin-top: .5em; opacity: .6; color: #c24b47"></i>
+  
+<!-- -- DISLIKES -->
+      <span style="font-weight: 500; color: #c4bfa1"> Dislikes</span>
+    <hr class="m-1" style="border-color: #c24b47">
+  <ul style="margin-left: 0; padding:0; list-style-type:none; font-size: 12px; color: white">
+
+    <li>
+        data, in pellentesque</li>
+        
+    <li><hr class="m-1" style="border-color: #9D8175; opacity: .3">
+        data, euismod</li>
+        
+    <li><hr class="m-1" style="border-color: #9D8175; opacity: .3">
+        data, facilisi morbi tempus</li>
+      </ul>
+    </div>
+<!-- ------ -->
+
+<div class=" card w-100 border-0 bg-transparent">
+  
+<!-- -- STRAT -->
+      <span style="font-weight: 500; color: #c4bfa1"> Trivia</span>
+    <hr class="m-1" style="border-color: #c24b47">
+    
+      <span style="font-size: 12px; color: white">
+        Describe how your character is best utilized here.
+          </span><hr class="my-1 w-75" style="border-color: #9D8175; opacity: .3">
+          
+      <span style="font-size: 12px; color: white">
+        Praesent a posuere neque. Nulla et commodo eros, id viverra metus.
+          </span><hr class="my-1 w-75" style="border-color: #9D8175; opacity: .3">
+          
+      <span style="font-size: 12px; color: white">
+        Sed lorem est, condimentum a aliquet vitae, cursus vitae lectus.
+          </span><hr class="my-1 w-75" style="border-color: #9D8175; opacity: .3">
+          
+        <span style="font-size: 12px; color: white">
+        Euismod in pellentesque massa placerat duis ultricies lacus sed turpis.
+    </span>
+  </div>
+
+<div class="mt-2 py-1 card w-100 mx-auto border-0 bg-transparent">
+  
+<!-- ---- DESIGN NOTES ---- -->
+      <span style="font-weight: 500; color: #c4bfa1"> Appearance </span>
+    <hr class="m-1" style="border-color: #c24b47"></div>
+   <div class="card col-md-6 row no-gutters border-0 bg-transparent">
+  <ul style="margin-left: 0; padding:0; list-style-type:none; font-size: 12px; color: white">
+    
+    <li>
+      distinguishing feature</li>
+        
+    <li><hr class="m-1" style="border-color: #9D8175; opacity: .3">
+      distinguishing feature</li>
+        
+    <li><hr class="m-1" style="border-color: #9D8175; opacity: .3">
+      distinguishing feature</li>
+   </ul>
+</div>
+  <div class="card col-md-6 row no-gutters border-0 bg-transparent">
+   <ul style="margin-left: 0; padding:0; list-style-type:none; font-size: 12px; color: white">
+    
+    <li>
+      distinguishing feature</li>
+        
+    <li><hr class="m-1" style="border-color: #9D8175; opacity: .3">
+      distinguishing feature</li>
+        
+    <li><hr class="m-1" style="border-color: #9D8175; opacity: .3">
+      distinguishing feature</li>
+   </ul>
+</div>
+<!-- ------ -->
+ </div>
+  </div>
+<!-- ------------ TAB "ABOUT" END ------------ -->
+
+
+
+
+   <div class="tab-content"> 
+</div>
+ </div>
+<!-- ------ TAB " HISTORY " ------ -->
+ <div class="tab-pane fade" id="tab-4">
+
+   <p class="py-2" style="color: white">THE STORY</p>
+ <div class="card p-2 rounded-0 bg-muted" style="box-shadow: inset 2px 2px 5px #0f0e0b; border-bottom: double 1px #666; border-right: double 1px #666; background: #281915">
+<!-- ------ --> 
+
+
+ <!-- ---- TIMELINE ---- -->
+   <div class="row no-gutters">
+     
+<!-- -- STORY ONE -->   
+<div class="card w-100 py-1 col-md-6 rounded-0" style="border: double 1px #9D8175;  background: #3b241f">
+  <span style="font-weight: 500; color: #c4bfa1"> Title</span>
+    <hr class="m-1" style="border-color: #c24b47">
+<!-- ---- STORY BOX ONE -->   
+     <div class="card w-100 py-1 px-2 border-0 bg-transparent" style="max-height: 240px; overflow-y: auto; font-size: 12px; color: white">
+       <p style>
+         Write to your heart's content. <br> Box will scroll. <br>
+         Vivamus id viverra mauris. Pellentesque imperdiet tellus sit amet risus consequat maximus.
+         <p> In et lorem lobortis, volutpat diam pellentesque, lobortis diam.
+         <p> Fusce facilisis eget elit nec eleifend. Maecenas ultricies, ligula eget imperdiet rhoncus, ipsum orci elementum arcu, in consectetur augue metus vitae lectus.</p>
+
+</div>  
+  </div>
+ 
+<!-- -- STORY TWO -->   
+<div class="card w-100 py-1 col-md-6 rounded-0" style="border: double 1px #9D8175;  background: #3b241f">
+  <span style="font-weight: 500; color: #c4bfa1"> Title</span>
+    <hr class="m-1" style="border-color: #c24b47">
+<!-- ---- STORY BOX TWO -->    
+     <div class="card w-100 py-1 px-2 border-0 bg-transparent" style="max-height: 240px; overflow-y: auto; font-size: 12px; color: white">
+       <p style>
+         Nam ac sem sit amet ligula mattis tristique. Nunc sit amet magna eu neque lacinia efficitur eget non massa. Quisque non tellus id lacus commodo porttitor ac sit amet lorem. Pellentesque imperdiet rhoncus quam, quis eleifend augue vehicula vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis purus leo, mattis sed dui ac, aliquam interdum dui.<p>
+           
+         Praesent efficitur, enim sit amet gravida maximus, libero risus sagittis quam, eget posuere enim justo vel nibh. Vivamus neque urna, aliquam sit amet mauris ac, mattis lacinia nunc. Donec tortor ante, interdum ac libero eu, luctus consectetur enim. Sed id bibendum mi. Fusce pharetra dapibus enim vitae molestie. Nunc nulla libero, dapibus non tortor at, vehicula varius purus. Aenean aliquet tincidunt gravida. Suspendisse euismod bibendum auctor. Pellentesque blandit vulputate mauris vel sodales. Nam volutpat tempor risus ut consequat.</p>
+
+</div>  
+  </div>
+  
+  
+ <!-- ---- AES / MOOD ---- -->
+    <div class="mt-1 container-fluid col-12 row no-gutters bg-faded" style="border: outset 1px #9D8175;  background: #806e59">
+      <div class="col-md-3 col-sm-5 py-1 mr-auto">
+        
+<!-- -- IMAGE 1 -- -->
+    <div class="card rounded mx-auto border-0" style="height: 115px; width: 115px;
+      background: url(
+      
+https://dummyimage.com/200x200
+      
+      ) center no-repeat; background-size: cover;">
+      <!-- -- CREDIT LINK -->
+<i class="far fa-image-polaroid tooltipster text-danger" href="URL_LINK_HERE" title="source" style="position: absolute; right: 6px; bottom: 6px; font-size:9px"></i>
+</a>
+  </div>
+    </div>
+<!-- ------------ -->
+      <div class="col-md-3 col-sm-5 py-1 mx-auto">
+        
+<!-- -- IMAGE 2 -- -->
+    <div class="card rounded mx-auto border-0" style="height: 115px; width: 115px;
+      background: url(
+      
+https://dummyimage.com/200x200
+      
+      ) center no-repeat; background-size: cover;">
+      <!-- -- CREDIT LINK -->
+<i class="far fa-image-polaroid tooltipster text-danger" href="URL_LINK_HERE" title="source" style="position: absolute; right: 6px; bottom: 6px; font-size:9px"></i>
+</a>
+  </div>
+    </div>
+<!-- ------------ -->
+      <div class="col-md-3 col-sm-5 py-1 mx-auto">
+        
+<!-- -- IMAGE 3 -- -->
+    <div class="card rounded mx-auto border-0" style="height: 115px; width: 115px;
+      background: url(
+      
+https://dummyimage.com/200x200
+      
+      ) center no-repeat; background-size: cover;">
+      <!-- -- CREDIT LINK -->
+<i class="far fa-image-polaroid tooltipster text-danger" href="URL_LINK_HERE" title="source" style="position: absolute; right: 6px; bottom: 6px; font-size:9px"></i>
+</a>
+  </div>
+    </div>
+<!-- ------------ -->
+      <div class="col-md-3 col-sm-5 py-1 mx-auto">
+        
+<!-- -- IMAGE 4 -- -->
+    <div class="card rounded mx-auto border-0" style="height: 115px; width: 115px;
+      background: url(
+      
+https://dummyimage.com/200x200
+      
+      ) center no-repeat; background-size: cover;">
+      <!-- -- CREDIT LINK -->
+<i class="far fa-image-polaroid tooltipster text-danger" href="URL_LINK_HERE" title="source" style="position: absolute; right: 6px; bottom: 6px; font-size:9px"></i>
+</a>
+  </div>
+    </div>
+  </div>
+<!-- ------------ -->
+ </div>
+  </div>
+<!-- ------------ TAB "HISTORY" END ------------ -->
+
+
+
+
+   <div class="tab-content"> 
+</div>
+ </div>
+<!-- ------ TAB " SOCIAL " ------ -->
+ <div class="tab-pane fade" id="tab-5">
+   
+   <p class="py-2" style="color: white">RELATIONS</p>
+ <div class="card p-2 rounded-0 bg-muted" style="box-shadow: inset 2px 2px 5px #0f0e0b; border-bottom: double 1px #666; border-right: double 1px #666; background: #281915">
+   
+   <div class="row no-gutters">
+<!-- ------------------------------------------------ --> 
+
+<!-- ------------------------------------------------ -->
+<div class="card py-2 col-md-8 col-sm-7 bg-faded" style="max-width: 320px; box-shadow: 1px 1px 3px #222; background: #3b241f; border-color: #674D4B">
+  
+ <!-- ---- RELATIONSHIP ONE ---- -->
+      <span style="font-weight: 500; color: #c4bfa1">
+        NAME FIELD
+    </span>
+  <hr class="m-1 mx-5" style="border-top: dotted 3px #666">
+      
+<!-- ---- DESCRIPTION -->
+      <div class="card border-0 mx-2 px-3 py-2" style="font-size: 12px; line-height: 1.7em; height: 145px; overflow-y: auto; background: #281915; color: white">
+         Write something about them here, can be any length, short or long. This little box here scrolls. Ut labore et dolore magna aliqua. Euismod quis viverra nibh cras pulvinar.
+         <p>
+         Nunc sed velit dignissim sodales ut eu sem. Porta non pulvinar neque laoreet suspendisse interdum. Blandit aliquam etiam erat velit scelerisque in dictum non consectetur.
+      </span>
+    </div>
+  </div>
+   <div class="container col-md-4 col-sm-4">
+     <div class="card bg-faded m-md-1 mx-sm-auto" style="width: 160px; height: 190px; transform: rotate(3deg); box-shadow: 1px 1px 3px #222; background: #3b241f; border-color: #674D4B">
+    
+<!-- ---- IMAGE, INSERT YOUR URL -->
+     <div class="card bg-light mx-2 my-2" style="width: 140px; height: 150px; transform: rotate(0.3deg); background-image: url(
+    
+https://www.teamfortress.com/war/maps/images/dc01.jpg
+    
+    ); background-position: center; background-size: cover;">
+<!-- IMAGE FILTER -->
+  <img src="https://fixthephoto.com/images/content/film-scratches-overlay-free-cover1613402998.jpg" style="width: 180px; height: 180px; mix-blend-mode: difference; opacity: .6">
+</div>
+    
+<!-- ---- BOND; you can find more icons at https://fontawesome.com/icons/ -->
+    <i class="fad fa-hands-holding-heart tooltipster" style="color: #c4bfa1"
+    
+    title="RELATIONSHIP"></i>
+  </div>
+</div>
+  </div>
+<!-- ------------------------------------------------ -->
+
+<!-- ------------------------------------------------ -->
+  <!-- - - - to add more items, copy from here - - - --> 
+  <hr class="m-0 my-3 bg-warning" style="opacity: .4">
+  <div class="row no-gutters">
+    
+<div class="card py-2 col-md-8 col-sm-7 bg-faded" style="max-width: 320px; box-shadow: 1px 1px 3px #222; background: #3b241f; border-color: #674D4B">
+  
+ <!-- ---- RELATIONSHIP TWO ---- -->
+      <span style="font-weight: 500; color: #c4bfa1">
+        NAME FIELD
+    </span>
+  <hr class="m-1 mx-5" style="border-top: dotted 3px #666">
+      
+<!-- ---- DESCRIPTION -->
+      <div class="card border-0 mx-2 px-3 py-2" style="font-size: 12px; line-height: 1.7em; height: 145px; overflow-y: auto; background: #281915; color: white">
+         Write something about them here, can be any length, short or long. This little box here scrolls. Ut labore et dolore magna aliqua. Euismod quis viverra nibh cras pulvinar.
+         <p>
+         Nunc sed velit dignissim sodales ut eu sem. Porta non pulvinar neque laoreet suspendisse interdum. Blandit aliquam etiam erat velit scelerisque in dictum non consectetur.
+      </span>
+    </div>
+  </div>
+   <div class="container col-md-4 col-sm-4">
+     <div class="card bg-faded m-md-1 mx-sm-auto" style="width: 160px; height: 190px; transform: rotate(3deg); box-shadow: 1px 1px 3px #222; background: #3b241f; border-color: #674D4B">
+    
+<!-- ---- IMAGE, INSERT YOUR URL -->
+     <div class="card bg-light mx-2 my-2" style="width: 140px; height: 150px; transform: rotate(0.3deg); background-image: url(
+    
+https://www.teamfortress.com/war/maps/images/dc01.jpg
+    
+    ); background-position: center; background-size: cover;">
+<!-- IMAGE FILTER -->
+  <img src="https://fixthephoto.com/images/content/film-scratches-overlay-free-cover1613402998.jpg" style="width: 180px; height: 180px; mix-blend-mode: difference; opacity: .6">
+</div>
+    
+<!-- ---- BOND; you can find more icons at https://fontawesome.com/icons/ -->
+    <i class="fad fa-handshake tooltipster" style="color: #c4bfa1"
+    
+    title="RELATIONSHIP"></i>
+  </div>
+</div>
+  </div>
+<!-- ------------------------------------------------ -->
+
+<!-- ------------------------------------------------ -->
+  <!-- - - - end copy here - - - -->   
+
+<!-- v paste below v -->
+
+
+
+<!-- ^ paste above ^ -->
+ </div>
+<!-- ------------ TAB "SOCIAL" END ------------ -->
