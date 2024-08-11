@@ -1,0 +1,2023 @@
+<!-- ------ ------ ------ ------
+   
+   : Code by Kunstmaskin : Project-Z : Alt-Ver.1 (updated, Nov 14th 2023)
+   
+   
+  Please follow my TOS, thank you ! <3
+   
+   › Do not redistribute this code. Ever.
+   › For this particular code, I dont't allow frankenstein stitching with others.
+     Personal edits is fine!
+   › Please do not hide, or remove the credit section, thank you.
+   
+   
+   I'm more than happy to provide answers in the comments or DMs, 
+   should you have any questions or issues :] 
+   
+   ------ ------ ------ ------ --> 
+
+<!-- Tips:
+
+     › If you ever feel lost, hit Ctrl + F, and search whichever term you want
+
+     › You can also hide/collapse sections by hitting the pointer icon next to the line number -->
+
+
+
+<!-- Top bar --> 
+<div class="container mx-auto" align="center">
+  
+<div class="card" style="background: grey; max-width: 540px; border-radius: 2px">
+  <div class="card px-1" style="padding-top: 2px; padding-bottom: 3px; border-radius: 0px; background-image: linear-gradient(to top, #141414 40%, #484848 90%); ">
+    
+  <p class="text-truncate text-uppercase text-muted" align="left">
+   <img src="https://i.postimg.cc/VLz8SxW2/pz-ui-ex.png" style="height: 14px; position: relative; bottom: 2px">
+   
+  <span class="pull-right">
+       <img src="https://i.postimg.cc/BQNG2mhb/pz-ui-pin.png" style="height: 14px; position: relative; bottom: 2px">
+</span>
+  </p>
+   </div>
+<!-- -------------------- -->
+
+
+<!-- NAVIGATION -->
+<div class="container row m-auto no-gutters p-0" style="max-width: 540px; font-family: Trebuchet MS; background: black; box-shadow: 0px -1px 4px #808080">
+<!-- ---- Tabs ---- -->
+    <div class="nav nav-btns flex-wrap border-0 col-12">
+      
+        <a class="nav-item btn btn-secondary active px-2" data-toggle="tab" href="#tab-1" style="color: #f3f3f3; background-image: linear-gradient(to top, #0c0c0c, #292929 70%); border: solid 1px black; border-radius: 0px; font-size: 18px;">
+            Info
+        </a>
+        <a class="nav-item btn btn-secondary px-2" data-toggle="tab" href="#tab-2" style="color: #f3f3f3; background-image: linear-gradient(to top, #0c0c0c, #292929 70%); border: solid 1px black; border-radius: 0px; font-size: 18px">
+            Skills
+        </a>
+        <a class="nav-item btn btn-secondary px-2" data-toggle="tab" href="#tab-3" style="color: #f3f3f3; background-image: linear-gradient(to top, #0c0c0c, #292929 70%); border: solid 1px black; border-radius: 0px; font-size: 18px">
+            Health
+        </a>
+        <a class="nav-item btn btn-secondary px-2" data-toggle="tab" href="#tab-4" style="color: #f3f3f3; border: 1px solid; background-image: linear-gradient(to top, #0c0c0c, #292929 70%); border: solid 1px black; border-radius: 0px; font-size: 18px">
+            Social
+        </a>
+        <a class="nav-item btn btn-secondary px-2" data-toggle="tab" href="#tab-5" style="color: #f3f3f3; border: 1px solid; background-image: linear-gradient(to top, #0c0c0c, #292929 70%); border: solid 1px black; border-radius: 0px; font-size: 18px">
+            Lore
+        </a>
+    </div>
+</div>
+<!-- -------------------- -->
+
+
+
+
+<div class="tab-content">
+ <div class="tab-pane show active" id="tab-1" style="overflow-y: auto;">
+  
+<!-- ------------ TAB " INFO " ------------ -->
+<div class="card p-4" style="background: #0a0907; border-radius: 1px; margin-top: 0.1px">
+<div class="row no-gutters">
+
+
+   <!-- ---- Image ---- -->
+<div class="card" style="height: 320px; width: 160px;
+background: url(https://w0.peakpx.com/wallpaper/230/762/HD-wallpaper-paint-fluid-art-stains-liquid-blue.jpg)
+center; background-size: cover; border: double 1px #999; border-radius: 2px">
+</div>
+
+   <!-- ---- Name ---- -->
+  <div class="card row mx-0 no-gutters col-5 h-100 border-0 d-felx text-left pl-4 bg-transparent" style="font-family: Corbel">
+<h3 style="font-size: 24px; color: white; font-weight: 500">
+        Name Lastname
+  </h3>
+<hr class="m-0" style="border-color: white; opacity: .2;
+max-width: 162px; "> <!-- change width to match name length -->
+
+   <!-- ---- Weight ---- -->
+<div class="card row mt-3 m-1 col-10 bg-transparent border-0" style="font-family: Trebuchet MS; font-size: 17px;">
+   <span class="text-truncate text-white" align="left">  
+        Weight
+    <span class="pull-right" style="color: #7b7b79">80
+    
+<!-- you can change chevron to 'up' or remove it entierly; from <sup> to </sup> -->
+    <sup><i class="fa-solid fa-chevron-down" style="color: #a8a8a8"></i></sup>
+      </span>
+
+
+   <!-- ---- Traits;
+you can get the png links from the wiki (https://pzwiki.net/wiki/Traits) ---- -->
+   <p class="text-truncate text-white" align="left">  
+        Traits
+    <span class="pull-right" style="color: #7b7b79">
+      
+<!-- Trait 1 -->     
+<img src="https://pzwiki.net/w/images/8/87/Trait_graceful.png" style="height: 18px; position: relative; bottom: 2px" class="tooltipster"
+  title="Graceful">      
+
+<!-- Trait 2 -->      
+ <img src="https://pzwiki.net/w/images/a/a1/Trait_fit.png" style="height: 18px; position: relative; bottom: 2px" class="tooltipster"
+  title="Fit"> 
+
+<!-- Trait 3 -->
+<img src="https://pzwiki.net/w/images/8/89/Trait_hemophobic.png?20230723171852" style="height: 18px; position: relative; bottom: 2px" class="tooltipster"
+  title="Fear of Blood">
+
+<!-- Trait 4 -->
+<img src="https://pzwiki.net/w/images/5/50/Trait_insomniac.png" style="height: 18px; position: relative; bottom: 2px" class="tooltipster"
+  title="Restless Sleeper">
+
+<br>
+<!-- delete or add as many traits as you want; under here  -->
+
+
+<!-- ----------- Add above ------------ -->      
+  </div>
+ <br>
+   <!-- ---- Theme song ---- -->
+<div class="card bg-transparent border-0 col-12" style="font-family: Trebuchet MS; font-size: 17px;"> 
+   <p class="text-truncate text-white" align="left">  
+        Theme
+    <a href="URL_LINK_HERE" style="color: #7b7b79">
+     <span class="pull-right" style="color: inherit">
+        Song Title
+      </span>
+           </a>
+
+<!-- -------------------- --> 
+   </div> 
+ <div class="card bg-transparent border-0 mt-4" style="color: white; max-width: 110px; font-family: Trebuchet MS;">
+  <a class="btn p-1" data-toggle="collapse" href="#data" style="border: double 1px #7b7b79; color: inherit; font-size: 16px">
+        Personal Data 
+  </a>
+    </div>
+        </div>
+<!-- Button pop-up -->
+<div class="collapse fade p-3 col-sm-12" id="data" style="position:absolute; top:10; left:0; z-index:2;">
+  <div class="justify-content-center">
+<!-- pop-up -->
+      <a data-toggle="collapse" href="#data" class="mx-lg-5 pl-lg-2" style="position:absolute; top:-5px; left:35px; z-index:3; color: white; font-weight: 600;  text-shadow: 2px 2px 1px black;"><i class="fa-regular fa-rectangle-xmark"></i> Close</a>
+ 
+         <div class="row align-items-center">
+           <div class="card bg-faded p-3 h-100 " style="border: double 1px #808080; border-radius:10px; max-width:510px; min-width:350px; background: rgba(0,0,0, 0.8)">
+<!-- -------------------- -->
+
+
+   <!-- ---- Personal notes ---- -->
+<ul class="m-1 text-left px-1" style="color: white; list-style-type: none; padding: 0; font-weight: 600">
+ <li class=""><i class="fal fa-hourglass-half fa-sm"></i>
+Age
+    <span class="pull-right" style="color: #adadad; text-shadow: 1px 1px 3px black">
+        Info here
+      </span>
+   </li><hr class="mt-0" style="border-color: white; opacity: .2;">
+ <li class=""><i class="fal fa-cake-candles fa-sm"></i>
+DOB
+    <span class="pull-right" style="color: #adadad; text-shadow: 1px 1px 3px black">
+        Info here
+      </span>
+   </li><hr class="mt-0" style="border-color: white; opacity: .2;">
+ <li class=""><i class="fal fa-ruler fa-sm"></i>
+Height
+    <span class="pull-right" style="color: #adadad; text-shadow: 1px 1px 3px black">
+        Info here
+      </span>
+   </li><hr class="mt-0" style="border-color: white; opacity: .2;">
+ <li class=""><i class="fal fa-venus-mars fa-sm"></i>
+Gender
+    <span class="pull-right" style="color: #adadad; text-shadow: 1px 1px 3px black">
+        Info here
+      </span>
+   </li><hr class="mt-0" style="border-color: white; opacity: .2;">
+ <li class=""><i class="fal fa-head-side-heart fa-sm"></i>
+Orientation
+    <span class="pull-right" style="color: #adadad; text-shadow: 1px 1px 3px black">
+        Info here
+      </span>
+   </li><hr class="mt-0" style="border-color: white; opacity: .2;">
+ <li class=""><i class="fal fa-globe fa-sm"></i>
+Nationality
+    <span class="pull-right" style="color: #adadad; text-shadow: 1px 1px 3px black">
+        Info here
+      </span>
+   </li><hr class="mt-0" style="border-color: white; opacity: .2;">
+<!-- List end -->
+  </ul>
+</div>
+
+     </div>
+  </div>
+</div>
+<!-- --- -->
+
+
+   <!-- ---- Occupation;
+     you can get the png links from the wiki (https://pzwiki.net/wiki/Occupation) ---- -->
+<div class="card row no-gutters mx-auto border-0 tooltipster" style="height: 90px; width: 90px;
+background: url(https://pzwiki.net/w/images/7/7b/Profession_nurse.png)
+center; background-size: cover;" 
+
+title="OCCUPATION NAME">  
+</div>
+
+   <!-- ---- Bottom info;
+     If your text is too long, just change col-lg-6 to col-lg-7 ---- -->
+<div class="card col-lg-6 col-8 mt-3 bg-transparent border-0" style="font-family: Trebuchet MS; font-size: 17px">
+      
+  <div class="d-flex justify-content-between pl-md-3 pl-0">
+    <span>Favourite Weapon</span>
+    
+    <span class="pull-right" style="color: #7b7b79">
+  Weapon
+    </span></div>
+
+  <div class="d-flex justify-content-between pl-md-3 pl-0">
+    <span>Zombies Killed</span>
+    
+    <span class="pull-right" style="color: #7b7b79">
+  Amont
+    </span></div>
+  </div>
+</div>
+  </div>
+    </div>
+<!-- ------------ "INFO" TAB END ------------ --> 
+
+
+
+
+ <div class="tab-pane" id="tab-2" style="overflow-y: auto;">
+ <div class="tab-content"> 
+  
+<!-- ------------ TAB " SKILLS " ------------ This will get long... -->
+
+<div class="card p-4" style="background: #0a0907; border-radius: 1px; margin-top: 0.1px">
+  <!-- -------- -->
+  <!-- feel free to remove any not in use -->
+  <div class="card row col-5 h-100 border-0 d-felx text-left bg-transparent" style="font-family: Corbel">
+<p style="font-size: 20px; color: white; font-weight: 500">
+        Passive
+  </p>
+<hr class="m-0" style="border-color: white; opacity: .2;
+max-width: 152px; ">
+</div>
+
+<!-- To highlight trait bonuses, simply change #adadad to #c7a900, and vice versa to remove highlight -->
+   <!-- ---- PASSIVE -------------- -->
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #c7a900"> <!-- <-- <-- responsable for highlights is this silly guy right here -->
+          <div class="row">
+  <p class="col-4 text-left">Fitness</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<!-- To change "active" boxes, change background-color: black ; to #FCD063, or vice versa -->
+<div class="progress" style="border-radius: 2px; background: black;">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">  <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 5 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+ </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+
+   <!-- ------------------------------------ -->
+   <!-- ------------------------------------ -->
+   
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Strenght</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">  <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 5 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+<!-- Reminder; to change "active" boxes, change background-color: black ; to #FCD063, or vice versa -->
+  <div class="card row col-5 h-100 border-0 d-felx text-left bg-transparent mt-2" style="font-family: Corbel">
+<p style="font-size: 20px; color: white; font-weight: 500">
+        Agility
+  </p>
+<hr class="m-0" style="border-color: white; opacity: .2;
+max-width: 152px; ">
+</div>
+
+   <!-- ---- AGILITY -------------- -->
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Sprinting</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 5 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Lightfooted</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 5 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Nimble</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Sneaking</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+  </div>
+     </div>
+     
+   <!-- ------------------------------------ -->
+   <!-- ------------------------------------ -->
+
+  <div class="card row col-5 h-100 border-0 d-felx text-left bg-transparent mt-2" style="font-family: Corbel">
+<p style="font-size: 20px; color: white; font-weight: 500">
+        Combat
+  </p>
+<hr class="m-0" style="border-color: white; opacity: .2;
+max-width: 152px; ">
+</div>
+
+   <!-- ---- COMBAT -------------- -->
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Axe</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 5 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Long Blunt</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Short Blunt</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Long Blade</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Short Blade</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Spear</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Maintenance</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+  </div>
+     </div>
+     
+   <!-- ------------------------------------ -->
+   <!-- ------------------------------------ -->
+
+<!-- Reminder; to change "active" boxes, change background-color: black ; to #FCD063, or vice versa -->
+  <div class="card row col-5 h-100 border-0 d-felx text-left bg-transparent mt-2" style="font-family: Corbel">
+<p style="font-size: 20px; color: white; font-weight: 500">
+        Crafting
+  </p>
+<hr class="m-0" style="border-color: white; opacity: .2;
+max-width: 152px; ">
+</div>
+
+   <!-- ---- CRAFTING -------------- -->
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Carpentry</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 5 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Cooking</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Farming</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">First Aid</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Electrical</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Metalworking</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Mechanics</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Tailoring</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+  </div>
+     </div>
+     
+   <!-- ------------------------------------ -->
+   <!-- ------------------------------------ -->
+
+<!-- Reminder; to change "active" boxes, change background-color: black ; to #FCD063, or vice versa -->
+  <div class="card row col-5 h-100 border-0 d-felx text-left bg-transparent mt-2" style="font-family: Corbel">
+<p style="font-size: 20px; color: white; font-weight: 500">
+        Firearm
+  </p>
+<hr class="m-0" style="border-color: white; opacity: .2;
+max-width: 152px; ">
+</div>
+
+   <!-- ---- FIREARM -------------- -->
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Aiming</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 5 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Reloading</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+  </div>
+     </div>
+     
+   <!-- ------------------------------------ -->
+   <!-- ------------------------------------ -->
+
+  <div class="card row col-5 h-100 border-0 d-felx text-left bg-transparent mt-2" style="font-family: Corbel">
+<p style="font-size: 20px; color: white; font-weight: 500">
+        Survivalist
+  </p>
+<hr class="m-0" style="border-color: white; opacity: .2;
+max-width: 152px; ">
+</div>
+
+   <!-- ---- SURVIVALIST -------------- -->
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Fishing</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 5 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Trapping</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+   <!-- ---------------------------------------- -->
+  </div>
+     </div>
+        <div class="container-fluid" style="font-size: 17px; font-weight: 600; letter-spacing: 0.5px; color: #adadad">
+          <div class="row">
+            
+  <p class="col-4 text-left">Foraging</p>
+  <div class="col-lg-6 px-2 py-1 mx-auto">
+<div class="progress" style="border-radius: 2px; background: black">
+  
+<!-- LVL 1 -->
+  <div class="progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;"> <!-- <--  black / #FCD063  -->
+  </div>
+<!-- LVL 2 -->
+  <div class="ml-1 progress-bar card"style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 3 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: #FCD063;">
+  </div>
+<!-- LVL 4 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 6 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 7 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 8 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 9 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+<!-- LVL 10 -->
+  <div class="ml-1 progress-bar card" style="width:10%; height: 20px; border: solid 1.5px #383838; border-radius: 3px;
+  background-color: black;">
+  </div>
+  </div>
+</div>
+  </div>
+     </div>
+   <!-- ------------------------------------ -->
+   <!-- ------------------------------------ -->
+</div>
+</div>
+</div>
+<!-- ------------ "SKILLS" TAB END ------------ --> 
+
+
+
+
+ <div class="tab-pane" id="tab-3" style="overflow-y: auto;">
+ <div class="tab-content"> 
+  
+<!-- ------------ TAB " HEALTH " ------------ -->
+
+ <div class="row no-gutters">
+   <div class="card px-4 py-2 pt-4 w-100 border-0" style="background: #0a0907; border-radius: 1px; margin-top: 0.1px;
+font-family: Trebuchet MS; font-size: 17px;">
+       <div class="card row col-sm-8 border-0 d-felx text-left bg-transparent">
+   
+   <!-- ---- Status ---- -->
+   <p class="text-left text-white" align="left">  
+Status<br>
+    <span class="pull-left" style="color: #7b7b79; font-size: 14px;">
+  <!-- if you want an image next to the status, you can add this line next to it:
+  <img src="https://pzwiki.net/w/images/3/31/Moodle_dead.png" style="padding-bottom: 3px"> 
+  
+  you can fin the icon links here; https://pzwiki.net/wiki/Category:UI-Moodle_File
+  -->
+        Alive  /   Infected  /  Dead
+        
+      </span>
+   </div>
+ </div>
+ <div class="card px-4 py-2 border-0 w-100" style="background: #0a0907; border-radius: 1px;
+font-family: Trebuchet MS; font-size: 17px">
+   <div class="row no-gutters">
+
+   <!-- ---- Injuries ---- -->
+   <p class="text-right text-white col-sm-12" align="right">  
+Past injuries<br>
+    <span class="pull-right" style="color: #7b7b79; font-size: 14px;">
+        Curabitur tincidunt nibh sedx tellus sodales, eu cursus ipsum dictum. Can be any length.
+      </span>
+   </div>
+ </div>
+ <div class="card px-4 py-2 border-0 w-100" style="background: #0a0907; border-radius: 1px;
+font-family: Trebuchet MS; font-size: 17px;">
+   <div class="row no-gutters">
+
+   <!-- ---- Mental health ---- -->
+   <p class="text-left text-white col-sm-12" align="left">  
+Psychological health<br>
+    <span class="pull-left" style="color: #7b7b79; font-size: 14px;">
+        Nam ut orci finibus, bibendum turpis in, vestibulum ligula. Nunc aliquet velit sed laoreet suscipit. Can be any length.
+      </span>
+   </div>
+ </div>
+ 
+   <!-- ---- Personality ---- -->
+ <div class="card px-4 py-4 border-0 text-center" style="background: #0a0907; border-radius: 1px;
+font-family: Trebuchet MS; font-size: 17px;">
+   <span class="text-center text-white" align="center">  
+Personality</span>
+    <span class="text-center" style="color: #7b7b79; font-size: 14px;">
+        Write about them here. Praesent congue diam cursus, scelerisque mauris sed, tempus turpis, cras eget augue eget nibh pretium pharetra eu et dui.<br>
+        Can be any length.
+      </span>
+   </div>
+<div class="col-sm-6 pl-0">
+  <div class="card border-0 px-3 pb-2 rounded-0" style="background: #0a0907"> 
+  
+   <!-- ---- Stats / Info bars ---- can be anything you want;
+   
+   edit 'width:50%;' to any number from 0% to 100%-->
+<span style="font-family: Corbel; font-size: 14px; font-weight: 600; color: white">
+  Compassion
+<div class="progress my-2 rounded-0" style="border: solid 0.5px #383838; background: #1a1a1a">
+   <div class="progress-bar" role="progressbar" aria-valuemax="100" style="width:50%;
+   height:11px; background-color:#FCD063"></div>
+   
+  </div>
+<span style="font-family: Corbel; font-size: 14px; font-weight: 600; color: white">
+  Extroversion
+<div class="progress my-2 rounded-0" style="border: solid 0.5px #383838; background: #1a1a1a">
+   <div class="progress-bar" role="progressbar" aria-valuemax="100" style="width:50%;
+   height:11px; background-color:#FCD063"></div>
+
+  </div>
+<span style="font-family: Corbel; font-size: 14px; font-weight: 600; color: white">
+  Patience
+<div class="progress my-2 rounded-0" style="border: solid 0.5px #383838; background: #1a1a1a">
+   <div class="progress-bar" role="progressbar" aria-valuemax="100" style="width:50%;
+   height:11px; background-color:#FCD063"></div></span>
+    </div>
+  </div>
+</div>
+
+<div class="col-sm-6 pl-0">
+  <div class="card border-0 px-3 pb-2 rounded-0"  style="background: #0a0907">
+
+<span style="font-family: Corbel; font-size: 14px; font-weight: 600; color: white">
+Courage
+<div class="progress my-2 rounded-0" style="border: solid 0.5px #383838; background: #1a1a1a">
+   <div class="progress-bar" role="progressbar" aria-valuemax="100" style="width:50%;
+   height:11px; background-color:#FCD063"></div>
+
+  </div>
+<span style="font-family: Corbel; font-size: 14px; font-weight: 600; color: white">
+  Empathy
+<div class="progress my-2 rounded-0" style="border: solid 0.5px #383838; background: #1a1a1a">
+   <div class="progress-bar" role="progressbar" aria-valuemax="100" style="width:50%;
+   height:11px; background-color:#FCD063"></div>
+   
+  </div>
+<span style="font-family: Corbel; font-size: 14px; font-weight: 600; color: white">
+  Humour
+<div class="progress my-2 rounded-0" style="border: solid 0.5px #383838; background: #1a1a1a">
+   <div class="progress-bar" role="progressbar" aria-valuemax="100" style="width:50%;
+   height:11px; background-color:#FCD063"></div></span>
+       </div>
+    </div>
+  </div>
+</div>
+
+   <!-- ---- Likes and Dislikes ---- -->
+ <div class="row no-gutters">
+   <div class="card px-4 py-2 pt-4 w-100 border-0" style="background: #0a0907; border-radius: 1px;
+font-family: Trebuchet MS; font-size: 17px">
+       <div class="card row col-sm-12 border-0 d-felx text-left bg-transparent">
+   
+   <!-- ---- Likes ---- -->
+   <p class="text-truncate text-white" align="left">  
+Likes
+<img src="https://pzwiki.net/w/images/f/f8/Moodle_Icon_Drunk.png" style="padding-bottom: 3px"></p>
+    <span class="pull-right" style="color: #7b7b79; font-size: 14px;">
+        Info, can be any length you want or need.
+        Curabitur eu odio tincidunt, maximus magna quis, porttitor libero.
+      </span>
+      </ul>
+   </div>
+ </div>
+ <div class="card px-4 pb-4 border-0 w-100" style="background: #0a0907; border-radius: 1px;
+font-family: Trebuchet MS; font-size: 17px">
+   <div class="row no-gutters">
+
+   <!-- ---- Dislikes ---- -->
+   <p class="text-right text-white col-sm-12" align="right">
+<img src="https://pzwiki.net/w/images/f/fa/Moodle_Icon_Sick.png" style="padding-bottom: 3px">
+Dislikes<br>
+    <span class="pull-right" style="color: #7b7b79; font-size: 14px;">
+        Duis nibh velit, sodales ut odio sed, pretium convallis felis. Suspendisse magna justo, elementum quis dolor at, tempor tincidunt urna. Suspendisse potenti. Aliquam quis porta nisl.
+      </span>
+   </div>
+ </div>
+</div>
+
+   <!-- ---- Trivia ---- -->
+ <div class="card px-4 pb-4 pt-2 border-0" style="background: #0a0907; border-radius: 1px;
+font-family: Trebuchet MS; font-size: 17px;">
+   <span class="text-center text-white">  
+Trivia</span>
+    <ul class="mx-auto" style="color: #7b7b79; list-style-position: inside; padding:0; font-size: 14px;">
+<li class="mb-1">Aliquam quis porta nisl.
+ </li>
+<li class="mb-1"> Quisque bibendum ligula lectus.
+ </li>
+<li class="mb-1">Etiam eget imperdiet magna, pretium mollis massa. Suspendisse tincidunt posuere pretium.
+ </li>
+      </ul>
+   </div>
+
+  </div>
+    </div>
+<!-- ------------ "HEALTH" TAB END ------------ -->     
+
+
+
+
+ <div class="tab-pane" id="tab-4" style="overflow-y: auto;">
+ <div class="tab-content"> 
+  
+<!-- ------------ TAB " SOCIAL " ------------ -->
+<div class="card p-4" style="background: #0a0907; border-radius: 1px; margin-top: 0.1px">
+  <div class="row no-gutters">
+
+   <!-- ---- Relationship 1 ---- -->
+   <!-- Image -->
+  <div class="col-sm-3">
+<div class="card mb-2 mb-md-0" style="height: 120px; width: 110px;
+background: url(https://w0.peakpx.com/wallpaper/965/813/HD-wallpaper-paint-liquid-stains-blue-fluid-art.jpg)
+center; background-size: cover; border: double 1px #999; border-radius: 2px"></div>
+  </div>
+   <!-- Name & Bond -->
+     <div class="card row mx-0 no-gutters col-sm-8 h-100 border-0 d-felx text-left pl-4 bg-transparent" style="font-family: Corbel">
+  <h3 style="font-size: 24px; color: #c7a900; font-weight: 500; margin-bottom: 0px">
+        Name Lastname    
+<!-- link --><a href="URL_LINK_HERE" style="color: #7b7b79"><i class="fad fa-id-card-clip fa-2xs fa-fw"></i></a><!-- / link -->
+     </h3> 
+        <span class="float-right" style="color: #adadad; font-size: 18px" aign>
+    [Relationship]</span>
+  <hr class="m-0" style="border-color: white; opacity: .2; max-width: auto; ">
+   <span style="color: #7b7b79">
+    Integer aliquet condimentum diam ut scelerisque. Ut faucibus purus ante, ac varius lacus aliquam sed. Morbi ac urna dignissim, fermentum leo vitae, posuere odio. Sed cursus risus eget tempor aliquet. Quisque ac neque velit. </span>
+    </div>
+      </div>
+
+   <div class="pt-4 row no-gutters"> 
+   <!-- ---- Relationship 2 ---- -->
+   <!-- Image -->
+  <div class="col-sm-3">
+<div class="card mb-2 mb-md-0" style="height: 120px; width: 110px;
+background: url(https://w0.peakpx.com/wallpaper/965/813/HD-wallpaper-paint-liquid-stains-blue-fluid-art.jpg)
+center; background-size: cover; border: double 1px #999; border-radius: 2px"></div>
+  </div>
+   <!-- Name & Bond -->
+     <div class="card row mx-0 no-gutters col-sm-8 h-100 border-0 d-felx text-left pl-4 bg-transparent" style="font-family: Corbel">
+  <h3 style="font-size: 24px; color: #c7a900; font-weight: 500; margin-bottom: 0px">
+        Name Lastname
+<!-- link --><a href="URL_LINK_HERE" style="color: #7b7b79"><i class="fad fa-id-card-clip fa-2xs fa-fw"></i></a><!-- / link -->
+     </h3>
+        <span class="float-right" style="color: #adadad; font-size: 18px" aign>
+    [Relationship]</span>
+  <hr class="m-0" style="border-color: white; opacity: .2; max-width: auto; ">
+   <span style="color: #7b7b79">
+    Integer aliquet condimentum diam ut scelerisque. Ut faucibus purus ante, ac varius lacus aliquam sed. Morbi ac urna dignissim, fermentum leo vitae, posuere odio. Sed cursus risus eget tempor aliquet. Quisque ac neque velit. </span>
+    </div>
+      </div>
+
+<!-- - - - to add more, copy from here - - - -->
+
+   <div class="pt-4 row no-gutters"> 
+   <!-- ---- Relationship 3 ---- -->
+   <!-- Image -->
+  <div class="col-sm-3">
+<div class="card mb-2 mb-md-0" style="height: 120px; width: 110px;
+background: url(https://w0.peakpx.com/wallpaper/965/813/HD-wallpaper-paint-liquid-stains-blue-fluid-art.jpg)
+center; background-size: cover; border: double 1px #999; border-radius: 2px"></div>
+  </div>
+   <!-- Name & Bond -->
+     <div class="card row mx-0 no-gutters col-sm-8 h-100 border-0 d-felx text-left pl-4 bg-transparent" style="font-family: Corbel">
+  <h3 style="font-size: 24px; color: #c7a900; font-weight: 500; margin-bottom: 0px">
+        Name Lastname
+<!-- link --><a href="URL_LINK_HERE" style="color: #7b7b79"><i class="fad fa-id-card-clip fa-2xs fa-fw"></i></a><!-- / link -->
+     </h3>
+        <span class="float-right" style="color: #adadad; font-size: 18px" aign>
+    [Relationship]</span>
+  <hr class="m-0" style="border-color: white; opacity: .2; max-width: auto; ">
+   <span style="color: #7b7b79">
+    Integer aliquet condimentum diam ut scelerisque. Ut faucibus purus ante, ac varius lacus aliquam sed. Morbi ac urna dignissim, fermentum leo vitae, posuere odio. Sed cursus risus eget tempor aliquet. Quisque ac neque velit. </span>
+    </div>
+      </div>    
+<!-- - - - end copy here - - - -->    
+
+
+<!-- v paste below v -->
+
+
+
+<!-- ^ paste above ^ -->
+
+     </div>
+  </div>
+</div>
+<!-- ------------ "SOCIAL" TAB END ------------ -->  
+
+
+
+
+ <div class="tab-pane" id="tab-5" style="overflow-y: auto;">
+ <div class="tab-content"> 
+  
+<!-- ------------ TAB " LORE " ------------ -->
+<div class="card p-4" style="background: #0a0907; border-radius: 1px; margin-top: 0.1px">
+
+   <div class="card col-sm-12 px-2 w-100 border-0 bg-transparent" style="border-radius: 1px; margin-top: 0.1px; 
+font-family: Trebuchet MS; font-size: 17px">
+
+   <!-- ---- LORE / BACKSTORY ---- -->
+   
+   <!-- Header 1 -->
+<h3 style="font-size: 20px; color: white; font-weight: 500" class="text-turnacate text-white" align="left">
+Header / Title
+  </h3>
+    <hr class="m-0" style="border-color: white; opacity: .2; max-width: 200px; ">
+      <span class="text-left" style="color: #7b7b79; font-size: 14px">
+        usce dignissim finibus placerat. Suspendisse rutrum tortor eu nibh tristique, quis feugiat enim vehicula. Suspendisse tincidunt orci est, id auctor ipsum elementum eu. Quisque varius tellus sit amet auctor.
+      </span>
+
+  <!-- Header 2 -->
+<h3 style="font-size: 20px; color: white; font-weight: 500" class="text-turnacate text-white mt-4" align="left">
+Header / Title
+  </h3>
+    <hr class="m-0" style="border-color: white; opacity: .2; max-width: 200px; ">
+      <span class="text-left" style="color: #7b7b79; font-size: 14px">
+        Nulla fermentum, nunc tincidunt consectetur mattis, nulla erat egestas lectus, eget rutrum diam ipsum nec arcu. Duis malesuada ac nisi vel suscipit. Cras accumsan porta nunc ut sollicitudin. Fusce non laoreet lectus. Donec mattis nulla at mauris bibendum efficitur. Aliquam convallis efficitur scelerisque. Morbi sodales erat quis sem rutrum fringilla. Vestibulum scelerisque ultricies dolor, quis vestibulum lectus rutrum nec. Nunc laoreet gravida lorem ut porta.
+      </span>
+   </div>
+
+ 
+   <!-- ---- Timeline ---- -->
+<div class="row">
+<!-- Events -->
+<div class="card px-4 col-sm-16 border-0 bg-transparent pt-2">
+  <h3 style="font-size: 20px; color: white; font-weight: 500" class="text-white pr-md-1" align="right">
+Timeline
+    </h3>
+      <hr class="m-1" style="border-color: white; opacity: .2;">
+        <blockquote style="font-size:inherit; border-right: 1px solid white; border-left: 0; color:#7b7b79">
+        
+<!-- Event 1 -->
+   <ul style="float:right; text-align:left; list-style:none; padding: 0px">
+ <li><span class="pull-right font-weight-bold ml-2"> DATE <i class="far fa-pen-circle pt-1 ml-1" style="color: #adadad;"></i>
+  </span><br>
+    <span class="pull-left mb-2" align="left">
+        Ut ultricies est vitae leo interdum aliquam. Nunc hendrerit sit amet erat et vestibulum. Suspendisse et tristique erat.
+      </span>
+    </li><p>
+
+<!-- Event 2 -->
+   <ul style="float:right; text-align:left; list-style:none; padding: 0px">
+ <li><span class="pull-right font-weight-bold ml-2"> DATE <i class="far fa-pen-circle pt-1 ml-1" style="color: #adadad;"></i>
+  </span><br>
+    <span class="pull-left mb-2" align="left">
+        Ut ultricies est vitae leo interdum aliquam. Donec mattis nulla at mauris bibendum efficitur.
+      </span>
+    </li><p>
+
+<!-- - - - to add more, copy from here - - - --> 
+
+<!-- Event 3 -->
+   <ul style="float:right; text-align:left; list-style:none; padding: 0px">
+ <li><span class="pull-right font-weight-bold ml-2"> DATE <i class="far fa-pen-circle pt-1 ml-1" style="color: #adadad;"></i>
+  </span><br>
+    <span class="pull-left mb-2" align="left">
+        Aliquam convallis efficitur scelerisque. Morbi sodales erat quis sem rutrum fringilla.
+      </span>
+    </li><p>
+<!-- - - - end copy here - - - -->    
+
+
+<!-- v paste below v -->
+
+
+
+<!-- ^ paste above ^ -->
+
+</ul>
+</blockquote>
+
+</div>  
+ </div>
+   </div>
+<!-- ------------ "LORE" TAB END ------------ -->  
+  </div>
+</div>
+  </div>
+    </div>
+
+<!-------- : CREDIT : please do not remove : -------->
+<!-- You can move it around, I don't mind; just keep it clearly visible on all devices and themes -->
+<div class="card mx-auto border-0 p-1 bg-transparent" style="max-width: 545px">
+  <a href="https://toyhou.se/Kunstmaskin"><i class="fas fa-paw-claws pull-right tooltipster text-secondary" title="Code by Kunstmaskin" data-original-title="Code by Kunstmaskin" style="font-size:8px; opacity: .6">code</i></a>
+  </div>
