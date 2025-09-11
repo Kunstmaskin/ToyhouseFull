@@ -1,0 +1,1355 @@
+<!-- ------ ------ ------ ------
+   
+   : Code by Kunstmaskin : CTRL : custom
+   
+   
+  Please follow my TOS, thank you ! <3
+   
+   ›› Do not redistribute this code. Ever.
+   ›› Feel free to frankenstein with credit, if others allow so. HOWEVER, I do not allow code re-uploads, no matter how much you've edited it.
+   ›› Please do not hide, or remove the credit section, thank you!
+   
+   
+           ♪     Colours     ♪
+   › Shadows  ——————————————— black
+   › Highlights  ———————————— #EFAC59
+   › Faux-borders  —————————— #875C56
+   
+   › Dark background  ——————— #190D15  
+   › Priamry Background  ———— #462335
+   › Secondary Background  —— #371A29
+   › Tertiary Background  ——— #250E1A
+   
+   › Real borders  —————————— #1A0D10
+   › Dividers  —————————————— white
+   › Dashed lines  —————————— #ECAF97
+   
+   › Light text  ———————————— #FDF0D5
+   › Darker text  ————————————— #D19487
+   
+   Press ' CTRL + H ' to quickly change values.
+   
+   
+  I'm more than happy to provide answers in the comments or DMs, 
+  should you have any questions or issues :] 
+   
+   ------ ------ ------ ------ --> 
+
+
+<div class="contianer p-4 mx-auto" style="max-width: 990px; box-shadow: 0px 0px 6px -2px black; background: #190D15; color: #FDF0D5">
+    <div class="row no-gutters justify-content-center">
+      
+     
+<!-- ---- |/| LEFT PANEL |/| ---- -->  
+    <div class="card col-lg-6 col-12" style="max-width: 326px;max-height: 401px; background: #875C56; border-color: #875C56;
+    border-top-right-radius: 0px; border-bottom-right-radius: 0px">
+      
+      
+<!-- ---- Change icons by swapping the text after fa-
+with another icon fron https://fontawesome.com/search ---- -->
+
+      <i class="fal fa-moon-stars
+      fa-4x ml-md-0 ml-2" style="position:absolute;
+      left:-26px; top: -14px; z-index: 2;color:#EFAC59"></i>
+      
+      <i class="fal fa-star-shooting
+      fa-2x ml-md-0 ml-2" style="position:absolute;
+      left:-30px; top: 50px; z-index: 2;color:#EFAC59"></i>
+      
+      <i class="fal fa-stars
+      fa-lg ml-md-0 ml-2" style="position:absolute;
+      left:-12px; top: 90px; z-index: 2;color:#EFAC59"></i>
+      
+      
+      
+      
+      
+<!-- ---- // * BANNER IMAGE * // ---- -->
+      <div class="card p-2 border-0" style="min-height: 120px; background-image: url(
+      
+https://images.unsplash.com/photo-1593656188110-4549e078b946
+      
+      ); background-size: cover; background-position: center;
+       margin-bottom: 0.8px; border-top-right-radius: 0px; border-bottom-right-radius: 0px">
+<!-- ---- / ---- / ---- -->
+        
+        
+        
+        
+<!-- ---- // * ICON IMAGE * // ---- -->
+    <div class="card mx-auto w-100 border-0" style="background-image: url(
+    
+https://i.pinimg.com/736x/a9/15/d2/a915d207ec783d0f523b010b3e2011b1.jpg
+    
+    ); background-size: cover; background-position: center; height: 160px; max-width: 160px; box-shadow: 0px 0px 4px black">
+    </div>
+      </div>
+<!-- ---- / ---- / ---- -->
+      
+      
+      
+      <div class="card border-0" style="border-top-right-radius: 0px; border-bottom-right-radius: 0px; padding-bottom: .7px; background: #462335">
+     
+     
+     
+     
+<!-- ---- // * BASIC INFO FIELD * // ---- -->
+  <span style="font-weight: 600; letter-spacing: 1.6px; font-family: Cambria Math; font-size: 1.2em;color: #D19487" class="text-center my-1 px-2">
+    NAME LAST
+</span>
+   
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Nickname :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+   
+   
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Age :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+   
+   
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Birthday :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+   
+   
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Gender :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+   
+   
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Orientation :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+   
+   
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Nationality :</span>
+      <span class="pull-right"> or_species
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+      </div>
+    </div>
+<!-- ---- / ---- / ---- -->  
+
+
+
+
+
+<!-- ---- |/| MIDDLE PANEL, NAVIGATION |/| ---- -->
+      <div class="card rounded-0 border-0" style="background: #250E1A">
+        <ul class="nav text-center d-flex flex-md-column flex-row justify-content-between my-md-4 my-1 mx-md-0 mx-2 h-100">
+          
+      <li class="nav-item">
+        <a class="nav-link show active tooltipster"
+        title="Intro" data-toggle="tab" href="#intro">
+      <i class="fal fa-person-through-window fa-fw" style="font-size:1.5em; color:#EFAC59"></i>
+      </a>
+    </li>
+
+      <li class="nav-item">
+        <a class="nav-link tooltipster"
+        title="About"data-toggle="tab" href="#about">
+      <i class="fal fa-newspaper my-auto fa-fw" style="font-size:1.5em;color:#EFAC59"></i>
+      </a>
+    </li>
+
+      <li class="nav-item">
+        <a class="nav-link tooltipster"
+        title="Design" data-toggle="tab" href="#design">
+      <i class="fal fa-swatchbook my-auto fa-fw" style="font-size:1.5em;color:#EFAC59"></i>
+      </a>
+    </li>
+
+      <li class="nav-item">
+        <a class="nav-link tooltipster"
+        title="History" data-toggle="tab" href="#history">
+      <i class="fal fa-book-bookmark my-auto fa-fw" style="font-size:1.5em;color:#EFAC59"></i>
+      </a>
+    </li>
+
+      <li class="nav-item">
+        <a class="nav-link tooltipster"
+        title="Social" data-toggle="tab" href="#social">
+      <i class="fal fa-champagne-glasses my-auto fa-fw" style="font-size:1.5em;color:#EFAC59"></i>
+      </a>
+    </li>
+</ul>
+    </div>
+<!-- ---- /|/ ---- -->
+ 
+
+
+ 
+
+<!-- ---- |/| RIGHT PANEL |/| ---- --> 
+      <div class="card col-lg-9 col-12" style="max-width: 529px;
+        border-top-left-radius: 0px; border-bottom-left-radius: 0px; background: #875C56; border-color: #875C56">
+         <!-- flash guard -->
+           <div class="card m-0 border-0" style="max-height: 400px;
+           border-top-left-radius: 0px; border-bottom-left-radius: 0px; background: #462335">
+          
+          
+          
+          
+<!-- ---- //| INTRO TAB |// ---- -->
+       <div class="tab-content">
+        <div class="tab-pane fade show active" id="intro">
+          
+          <div style="overflow-y: auto; max-height: 400px">
+            <div class="card border-0 m-0 p-2" style="min-height: 400px;
+            border-top-left-radius: 0px; border-bottom-left-radius: 0px; background: #462335">
+              
+              <p class="text-right" style="font-size: 19px; letter-spacing: 1.6px">
+                INTRODUCTION
+                <i class="fal fa-user-edit" style=";color: #D19487"></i>
+              </p>
+              <hr class="m-0 mb-2" style="opacity: .4; border-color: white">
+              
+              
+<!-- ---- // * INTRODUCTION DRABBLE * // ---- -->
+<!-- make new paragraphs with <p> and line breaks with <br>; write as much as you want, the box scrolls --> 
+        <div class="text-center px-2"><p>
+          
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non.
+        <p>
+          Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+        </p></div>
+      <hr class="mx-0" style="opacity: .4; border-color: white">
+<!-- ---- / ---- / ---- -->
+     
+     
+      
+     
+<!-- ---- // * INTRO FIELD * // ---- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Language/s :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Occupation :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Education :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Alignment :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+<!-- ---- / ---- / ---- -->  
+     
+     
+     
+     
+<!-- ---- // * MUSIC TITLE * // ---- -->
+    <div class="card w-100 p-0 text-center mx-auto mt-2" style="max-width: 480px; border-color: #1A0D10; background: #371A29">
+      <div class="card col-md-12 col-9 mx-auto p-2 border-0" style="background: #371A29">
+      Now playing . . . . Song Title by Artist
+      </div>
+      
+      <div class="card rounded-circle p-1 overflow-hidden" style="position:absolute; right:-9px; bottom: -9px; z-index: 2; background: #371A29; border-color: #1A0D10">
+    <i class="fal fa-compact-disc fa-3x fa-spin" style="animation-duration: 4s; color: #D19487"></i>
+    
+    
+<!-- -- // * MUSIC PLAYER * // ;
+replace "VIDEO_ID_HERE" with your youtube video ID. keep eveything after "?"
+    (add  &autoplay=1  to the end of the link if you want autoplay on) -- -->
+    <iframe src="
+            
+https://www.youtube.com/embed/VIDEO_ID_HERE?controls=0&modestbranding=0
+        
+    " height="140px" width="200px" frameborder="1" style="opacity: 0.001; position:absolute; bottom:0; z-index: 2"></iframe>
+  </div>
+    </div>
+<!-- ---- / ---- / ---- -->
+   
+   
+   
+<!-- ---- // * AESTHETIC ROW * // ---- -->
+     <div class="row no-gutters pb-2 px-md-0 px-2">
+       
+<!-- -1- -->
+   <div class="card mt-3 mx-auto" style="height:110px;width:110px; background-image: url(
+   
+https://images.unsplash.com/photo-1542008858699-98c197b83d38
+   
+   ); background-size: cover; background-position: center; border-color: #1A0D10"></div>
+
+
+<!-- -2- -->
+   <div class="card mt-3 mx-auto" style="height:110px;width:110px; background-image: url(
+   
+https://i.pinimg.com/564x/cd/b1/c4/cdb1c449aec822acaef4969f2f5bb07f.jpg
+   
+   ); background-size: cover; background-position: center; border-color: #1A0D10"></div>
+
+
+<!-- -3- -->
+   <div class="card mt-3 mx-auto" style="height:110px;width:110px; background-image: url(
+   
+https://images.unsplash.com/reserve/c5cjBc9sRJKPYSmtzfBJ_DSC_7452.jpg
+   
+   ); background-size: cover; background-position: center; border-color: #1A0D10"></div>
+
+
+<!-- -4- -->
+   <div class="card mt-3 mx-auto" style="height:110px;width:110px; background-image: url(
+   
+https://images.unsplash.com/photo-1551951871-d8da2cbf417a
+   
+   ); background-size: cover; background-position: center; border-color: #1A0D10"></div>
+   </div>
+<!-- ---- / ---- / ---- -->
+      </div>
+    </div>
+  </div>
+<!-- ---- // ---- -->  
+  
+ 
+ 
+ 
+ 
+<!-- ---- //| ABOUT TAB |// ---- -->
+      <div class="tab-pane fade" id="about">
+        <div class="tab-content">
+          
+          <div style="overflow-y: auto; max-height: 400px">
+            <div class="card m-0 p-2" style="min-height: 398px;
+            border-top-left-radius: 0px; border-bottom-left-radius: 0px; background: #462335">
+              
+              <p class="text-right" style="font-size: 19px; letter-spacing: 1.6px">
+                ABOUT TAB
+                <i class="fal fa-head-side-brain" style="color: #D19487"></i>
+              </p>
+              <hr class="m-0 mb-2" style="opacity: .4; border-color: white">
+              
+              
+              
+<!-- ---- // * PERSONALITY DRABBLE * // ---- --> 
+            <div class="text-center px-2"><p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non.
+              </div>
+            <hr class="mx-0 mb-1" style="opacity: .4; border-color: white">
+<!-- ---- / ---- / ---- -->
+              
+              
+              
+              
+<!-- ---- // * TRAITS * (removable section) // ---- -->
+<!--  You can easily get rid of this whole section if you don't want it  -->
+     <div class="row no-gutters mt-2">
+        <div class="card border-0 col-md-4 col-12 text-center mx-auto py-1" style="background: #462335"><p class="ml-n2" style="font-weight: 500;color: #D19487">
+          <i class="fa-solid fa-check">
+            
+            
+<!-- ---- // UP // ---- -->
+        </i> Positive traits</p>
+      <ul class="mb-2" style="list-style-type:none;padding:0;">
+        <li>trait_info
+      </li>
+      
+        <li>trait_info
+      </li>
+      
+        <li>trait_info
+      </li>
+      
+     </ul>
+    </div>
+    
+        <div class="card border-0 col-md-4 col-12 text-center mx-auto py-1" style="background: #462335"><p class="ml-n2" style="font-weight: 500;color: #D19487">
+          <i class="fa-solid fa-xmark">
+            
+<!-- ---- // MIDDLE // ---- -->
+        </i> Neutral traits</p>
+      <ul class="mb-2" style="list-style-type:none;padding:0;">
+        <li>trait_info
+      </li>
+        <li>trait_info
+      </li>
+        <li>trait_info
+      </li>
+     </ul>
+    </div>
+    
+        <div class="card border-0 col-md-4 col-12 text-center mx-auto py-1" style="background: #462335"><p class="ml-n2" style="font-weight: 500;color: #D19487">
+          <i class="fa-solid fa-xmark">
+            
+<!-- ---- // DOWN // ---- -->
+        </i> Negative traits</p>
+      <ul class="mb-2" style="list-style-type:none;padding:0;">
+        <li>trait_info
+      </li>
+        <li>trait_info
+      </li>
+        <li>trait_info
+      </li>
+     </ul>
+    </div>
+    
+  </div>
+<hr class="mx-0 mb-1 mt-1" style="opacity: .4; border-color: white">
+<!-- ---- / --( removable section end )-- / ---- -->
+              
+              
+              
+              
+<!-- ---- // * PERSONALITY BARS * // ---- --> 
+        <div class="row no-gutters mt-md-2 mt-0" style="font-weight: 500">
+          
+          
+          <div class="col-md-5 col-12 mx-auto p-0">
+            <p class="text-truncate" align="left" style="color: #D19487">
+    Introverted<span class="pull-right">Extroverted
+    </span></p>
+  <div class="progress mb-md-0 mb-2"
+  style="background: #371A29">       <!-- v CHANGE WIDTH HERE v -->
+      <div class="progress-bar"             style="width:52%
+      
+      ;height:10px;background:none;border-right-width:8px;border-right-style:solid; color:#EFAC59"></div>
+  </div>
+</div>
+      
+          <div class="col-md-5 col-12 mx-auto p-0">
+            <p class="text-truncate" align="left" style="color: #D19487">
+    Serious<span class="pull-right">Light-hearted
+    </span></p>
+  <div class="progress mb-md-0 mb-2"
+  style="background: #371A29">       <!-- v CHANGE WIDTH HERE v -->
+      <div class="progress-bar"             style="width:52%
+      
+      ;height:10px;background:none;border-right-width:8px;border-right-style:solid; color:#EFAC59"></div></div>
+  </div>
+</div>
+<div class="row no-gutters mt-md-2 mt-0" style="font-weight: 500">
+          
+          
+          <div class="col-md-5 col-12 mx-auto p-0">
+            <p class="text-truncate" align="left" style="color: #D19487">
+    Timid<span class="pull-right">Brave
+    </span></p>
+  <div class="progress mb-md-0 mb-2"
+  style="background: #371A29">       <!-- v CHANGE WIDTH HERE v -->
+      <div class="progress-bar"             style="width:52%
+      
+      ;height:10px;background:none;border-right-width:8px;border-right-style:solid; color:#EFAC59"></div>
+  </div>
+</div>
+      
+          <div class="col-md-5 col-12 mx-auto p-0">
+            <p class="text-truncate" align="left" style="color: #D19487">
+    Dense<span class="pull-right">Perceptive
+    </span></p>
+  <div class="progress mb-md-0 mb-2"
+  style="background: #371A29">       <!-- v CHANGE WIDTH HERE v -->
+      <div class="progress-bar"             style="width:52%
+      
+      ;height:10px;background:none;border-right-width:8px;border-right-style:solid; color:#EFAC59"></div></div>
+  </div>
+</div>
+<div class="row no-gutters mt-md-2 mt-0" style="font-weight: 500">
+          
+          
+          <div class="col-md-5 col-12 mx-auto p-0">
+            <p class="text-truncate" align="left" style="color: #D19487">
+    Strategic<span class="pull-right">Impulsive
+    </span></p>
+  <div class="progress mb-md-0 mb-2"
+  style="background: #371A29">       <!-- v CHANGE WIDTH HERE v -->
+      <div class="progress-bar"             style="width:52%
+      
+      ;height:10px;background:none;border-right-width:8px;border-right-style:solid; color:#EFAC59"></div>
+  </div>
+</div>
+      
+          <div class="col-md-5 col-12 mx-auto p-0">
+            <p class="text-truncate" align="left" style="color: #D19487">
+    Blunt<span class="pull-right">Polite
+    </span></p>
+  <div class="progress mb-md-0 mb-2"
+  style="background: #371A29">       <!-- v CHANGE WIDTH HERE v -->
+      <div class="progress-bar"             style="width:52%
+      
+      ;height:10px;background:none;border-right-width:8px;border-right-style:solid; color:#EFAC59"></div></div>
+  </div>
+</div>
+<hr class="mx-0 mb-2" style="opacity: .4; border-color: white">
+<!-- ---- / ---- / ---- -->
+              
+              
+              
+              
+<!-- ---- // * (ABOUT) TRIVIA * // ---- -->
+      <h5 class="ml-n1" style="font-weight: 500;color: #D19487">
+        <i class="fal fa-comment-question ml-2"></i>
+        Trivia :
+        </h5>
+        <ul class="mb-2" style="list-style-type:none;padding:0;">
+        
+      <li class="mb-1">
+        In imperdiet sollicitudin urna at convallis. Donec non aliquam ipsum.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+      
+      <li class="mb-1">
+        Sed a vestibulum lacus.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+      
+<!-- - - > To add more items, copy from here - - --> 
+      <li class="mb-1">
+        Aenean blandit risus id ultrices euismod.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+<!-- - - End copy here < - - -->
+    
+    
+<!-- v Paste below v -->
+ 
+ 
+<!-- ^ Paste above ^ -->
+     </ul>
+<!-- ---- / ---- / ---- -->
+              
+              
+            <div class="row no-gutters">
+              
+              
+<!-- ---- // * LIKES * // ---- -->
+         <div class="card col-md-6 col-12 border-0"
+         style="background: #462335">
+           <h5 style="font-weight: 500;color: #D19487">
+             <i class="fal fa-heart ml-2"></i> Likes :</h5>
+          <ul class="mt-0 mb-2 mb-md-0 ml-n2" style="list-style-type:circle">
+            
+            <li>content</li>
+            
+            <li>content</li>
+            
+            <li>content</li>
+            
+<!-- > Add more above this line < -->
+          </ul></div>
+          
+          
+<!-- ---- // * DISLIKES * // ---- -->
+         <div class="card col-md-6 col-12 border-0"
+         style="background: #462335">
+           <h5 style="font-weight: 500;color: #D19487">
+             <i class="fal fa-heart-broken ml-2"></i> Dislikes :</h5>
+          <ul class="mt-0 mb-2 mb-md-0 ml-n2" style="list-style-type:circle">
+            
+            <li>content</li>
+            
+            <li>content</li>
+            
+            <li>content</li>
+            
+<!-- > Add more above this line < -->
+          </ul></div>
+            </div>
+<!-- ---- // ---- // ---- -->
+              
+              
+     <hr class="mx-0" style="opacity: .4; border-color: white">
+              
+              
+<!-- ---- // * (ABOUT) MANNERISMS * // ---- -->
+      <h5 class="ml-n1" style="font-weight: 500;color: #D19487">
+        <i class="fal fa-comment-lines ml-2"></i>
+        Mannerisms :
+        </h5>
+        <ul class="mb-2" style="list-style-type:none;padding:0;">
+        
+      <li class="mb-1">
+        In imperdiet sollicitudin urna at convallis. Donec non aliquam ipsum.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+      
+      <li class="mb-1">
+        Sed a vestibulum lacus.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+      
+      <li class="mb-1">
+        Aenean blandit risus id ultrices euismod.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+<!-- v Paste below v -->
+ 
+ 
+<!-- ^ Paste above ^ -->
+     </ul>
+<!-- ---- / ---- / ---- -->
+              
+              
+              
+              
+     <h5 class="ml-n1" style="font-weight: 500;color: #D19487">
+       <i class="fal fa-comment-lines ml-2"></i>
+       Tad-bits :
+      </h5>
+   <div class="p-2 rounded" style="overflow-y:auto;height:auto;
+   background: #371A29">
+     
+     
+     
+<!-- ---- // * TAD-BITS * // ---- -->
+     <div class="d-flex justify-content-between"><span
+     style="font-weight: 500;color: #D19487">Skills :</span>
+    <span class="pull-right">content_info
+  </span>
+</div><hr class="m-0 mb-2 outline-muted" style="border: dashed 1px; opacity: .2">
+
+
+     <div class="d-flex justify-content-between"><span
+     style="font-weight: 500;color: #D19487">Weaknesses :</span>
+    <span class="pull-right">content_info
+  </span>
+</div><hr class="m-0 mb-2 outline-muted" style="border: dashed 1px; opacity: .2">
+
+
+     <div class="d-flex justify-content-between"><span
+     style="font-weight: 500;color: #D19487">Hobbies :</span>
+    <span class="pull-right">content_info
+  </span>
+</div><hr class="m-0 mb-2 outline-muted" style="border: dashed 1px; opacity: .2">
+
+
+     <div class="d-flex justify-content-between"><span
+     style="font-weight: 500;color: #D19487">Family situation :</span>
+    <span class="pull-right">content_info
+  </span>
+</div><hr class="m-0 mb-2 outline-muted" style="border: dashed 1px; opacity: .2">
+
+
+     <div class="d-flex justify-content-between"><span
+     style="font-weight: 500;color: #D19487">Religious beliefs :</span>
+    <span class="pull-right">content_info
+  </span>
+</div><hr class="m-0 mb-2 outline-muted" style="border: dashed 1px; opacity: .2">
+   </div>
+<!-- ---- / ---- / ---- -->
+      
+      
+      
+      
+<!-- ---- // * INSIGHT * (removable section) // ---- -->
+      <h5 class="ml-n1 mt-3" style="font-weight: 500;color: #D19487">
+        <i class="fal fa-magnifying-glass ml-2"></i>
+        Insight :
+        </h5>
+        
+    <b style="color: #D19487">— How do they feel about themselves?</b><p>
+Cras eget libero augue. Praesent sed ultricies magna. Quisque nec velit in ligula consectetur elementum eget eget risus. Integer porta lacus eget bibendum lobortis. Nunc et nulla a sapien malesuada interdum.</p>
+
+
+    <b style="color: #D19487">— What is the first thing people notice about them?</b><p>
+Cras eget libero augue. Praesent sed ultricies magna. Quisque nec velit in ligula consectetur elementum eget eget risus.</p>
+
+
+    <b style="color: #D19487">— Question title here..!?</b><p>
+Answer here. Long or short, doesn't matter.</p>
+
+<!-- v Paste below v -->
+ 
+ 
+<!-- ^ Paste above ^ -->
+    
+<hr class="mx-0 mb-0 mt-3" style="opacity: .4; border-color: white">
+<!-- ---- / --( removable section end )-- / ---- -->
+      
+      
+      
+      
+<!-- ---- // * HANDWRITING * (removable section) // ---- -->
+      <h5 class="ml-n1 mt-3" style="font-weight: 500;color: #D19487">
+        <i class="fal fa-pen-fancy ml-2"></i>
+        Handwriting :
+        </h5>
+  
+<!-- ---- // IMAGE // ---- -->
+<!-- ---- with a transparent image, writing in grey works best.
+    Sample image is; w: 830, h: 630 ( A/R of 5:4 works too ) ---- -->
+  <div class="card rounded border-0 mb-2" style="height: 150px; width: 220px;
+    background: url(
+    
+https://media.discordapp.net/attachments/1037315948690018354/1168086892311478312/Illustration3.png
+    
+    ); background-position: center; background-size: 95%; background-repeat: no-repeat; background-blend-mode: overlay">
+  </div>
+<!-- ---- / --( removable section end )-- / ---- -->
+      
+      
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ---- /|/ ---- -->
+
+
+
+
+
+<!-- ---- //| DESIGN TAB |// ---- -->
+      <div class="tab-pane fade" id="design">
+        <div class="tab-content">
+          
+          <div style="overflow-y: auto; max-height: 400px">
+            <div class="card m-0 p-2" style="min-height: 398px;
+            border-top-left-radius: 0px; border-bottom-left-radius: 0px;
+            background: #462335">
+              
+              <p class="text-right" style="font-size: 19px; letter-spacing: 1.6px">
+                DESIGN
+                <i class="fal fa-palette" style=";color: #D19487"></i>
+              </p>
+              <hr class="m-0 mb-2" style="opacity: .4; border-color: white">
+              
+              
+              
+          <div class="row no-gutters">
+        <div class="card col-md-7 col-12 border-0" style="background: #462335">
+       
+       
+       
+<!-- ---- // * DESIGN FIELD (1) * // ---- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Height :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Weight :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Build :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+<!-- ---- / ---- / ---- -->
+     
+     
+     
+     
+<!-- ---- // * SCARS & TATTOOS * // ---- -->
+      <h5 class="ml-n1 mt-2" style="font-weight: 500;color: #D19487">
+        <i class="fal fa-asterisk ml-1"></i>
+        Scars / Tattoos :
+        </h5>
+        <ul class="mb-2" style="list-style-type:none;padding:0;">
+        
+      <li class="mb-1">
+        In imperdiet sollicitudin urna at convallis. Donec non aliquam ipsum.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+      
+      <li class="mb-1">
+        Sed a vestibulum lacus.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+      
+      <li class="mb-1">
+        Aenean blandit risus id ultrices euismod.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+<!-- v Paste below v -->
+ 
+ 
+<!-- ^ Paste above ^ -->
+     </ul>
+<!-- ---- / ---- / ---- -->
+   
+   
+</div>
+   
+   
+<!-- ---- // * DESIGN IMAGE (1) * // ---- -->
+   <div class="card col-md-4 col-8 mx-auto mb-md-0 mb-2" style="background-image: url(
+
+https://i.pinimg.com/564x/cb/5f/d9/cb5fd915ccf47345fcd984895e19de1a.jpg
+
+); background-size: cover; background-position: center; height: 240px
+; border-color: #1A0D10">
+ </div>
+   </div>
+      
+     
+      
+<!-- ---- // * NOTABLE DETAILS * // ---- -->
+      <h5 class="ml-n1 mt-1" style="font-weight: 500;color: #D19487">
+        <i class="fal fa-pen-swirl ml-1"></i>
+        Notable details :
+        </h5>
+        <ul class="mb-2" style="list-style-type:none;padding:0;">
+        
+      <li class="mb-1">
+        In imperdiet sollicitudin urna at convallis. Donec non aliquam ipsum.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+      
+      <li class="mb-1">
+        Sed a vestibulum lacus.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+      
+      <li class="mb-1">
+        Aenean blandit risus id ultrices euismod.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+<!-- v Paste below v -->
+ 
+ 
+<!-- ^ Paste above ^ -->
+     </ul>
+<!-- ---- / ---- / ---- -->
+   
+   
+   <div class="row no-gutters">
+     
+     
+<!-- ---- // * DESIGN IMAGE (2) * // ---- -->
+     <div class="card col-md-4 col-8 mx-auto mx-md-0 mb-md-0 mb-2" style="background-image: url(
+
+https://i.pinimg.com/564x/1e/ee/f7/1eeef7a66e8a23bf6f43d211313d32c6.jpg
+
+); background-size: cover; background-position: center; height: 240px
+; border-color: #1A0D10">
+  </div>
+<!-- ---- / ---- / ---- -->
+     
+     
+     <div class="card col-md-7 col-12 mx-auto border-0 my-auto" style="background: #462335">
+       
+       
+       
+<!-- ---- // * DESIGN FIELD (2) * // ---- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Hair style :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Hair colour :</span>
+      <span class="pull-right"> content_info
+         <i class="fa-solid fa-square" style="color:  #C68866  "></i>
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Eye colour :</span>
+      <span class="pull-right"> content_info
+         <i class="fa-solid fa-square" style="color:  #CC8B8C  "></i>
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Skin colour :</span>
+      <span class="pull-right"> content_info
+         <i class="fa-solid fa-square" style="color:  #C69DD2  "></i>
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+
+<!-- -- -->
+<div class="px-2 justify-content-between">
+  <span style="font-weight: 500;color: #D19487" class="pr-2">Demeanor :</span>
+      <span class="pull-right"> content_info
+    </span>
+  </div>
+<hr class="m-0 mb-2" style="border: dashed 1px #ECAF97; opacity: .2">
+<!-- ---- / ---- / ---- -->
+     
+     
+     </div>
+   </div>
+   
+   
+<!-- ---- // * DESIGN NOTES (removable section) * // ---- -->
+      <h5 class="ml-n1 mt-2" style="font-weight: 500;color: #D19487">
+        <i class="fal fa-notebook ml-1"></i>
+        Design notes :
+        </h5>
+        <ul class="mb-2" style="list-style-type:none;padding:0;">
+        
+      <li class="mb-1">
+        In imperdiet sollicitudin urna at convallis. Donec non aliquam ipsum.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+
+      <li class="mb-1">
+        Aenean blandit risus id ultrices euismod.
+      <hr class="mx-0 mb-2 mt-0" style="opacity: .4; border-color: white">
+    </li>
+<!-- v Paste below v -->
+ 
+ 
+<!-- ^ Paste above ^ -->
+     </ul>
+<!-- ---- / --( removable section end )-- / ---- -->
+     
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ---- /|/ ---- -->
+
+
+
+
+
+<!-- ---- //| HISTORY TAB |// ---- -->
+      <div class="tab-pane fade" id="history">
+        <div class="tab-content">
+          
+          <div style="overflow-y: auto; max-height: 400px">
+            <div class="card m-0 p-2" style="min-height: 400px;
+            border-top-left-radius: 0px; border-bottom-left-radius: 0px;
+            background: #462335">
+              
+              <p class="text-right" style="font-size: 19px; letter-spacing: 1.6px">
+                HISTORY
+                <i class="fal fa-books" style="color: #D19487"></i>
+              </p>
+              <hr class="m-0 mb-2" style="opacity: .4; border-color: white">
+              
+              
+              
+              
+<!-- ---- // * STORY BANNER IMAGE * // ---- -->
+     <div class="card" style="height: 80px; background-image: url(
+
+https://images.unsplash.com/photo-1500817487388-039e623edc21
+
+    );background-position: center; background-size: cover;
+    border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; border-color: #1A0D10">
+   </div>
+   
+<!-- ---- // * MAIN TITLE * // ---- --> 
+        <div class="card mb-2 text-center py-2 text-uppercase"
+          style="background: #250E1A;
+          
+          height: 40px; letter-spacing: 1.6px; font-family: Cambria Math;
+          font-weight: 600; border-top-right-radius: 0px; border-top-left-radius: 0px;color: #FDF0D5; border-color: #1A0D10">
+          Main title
+        </div>
+<!-- ---- / ---- / ---- -->
+        
+        
+        
+        
+<!-- ---- // * SUB-TITLE (1) * // ---- -->
+      <h5 class="mt-2" style="font-weight: 500;color: #D19487">
+        <i class="fad fa-bookmark ml-1"></i>
+        Sub-title
+        </h5>
+      <hr class="mx-0 mb-1 mt-n1" style="opacity: .4; border-color: white">
+      
+    <p>
+      Praesent dictum ac justo et elementum. Pellentesque tristique mattis nisl vitae fringilla. Ut bibendum lectus mi, eget congue sapien vehicula quis.
+    </p>
+<!-- ---- / ---- / ---- -->
+     
+     
+     
+<!-- ---- // * SUB-TITLE (2) * // ---- -->
+      <h5 class="mt-2" style="font-weight: 500;color: #D19487">
+        <i class="fad fa-bookmark ml-1"></i>
+        Sub-title
+        </h5>
+      <hr class="mx-0 mb-1 mt-n1" style="opacity: .4; border-color: white">
+      
+    <p>
+      Donec commodo tincidunt arcu, blandit placerat tellus tincidunt non. Vivamus sed venenatis tellus, eu mollis metus. Proin sit amet tincidunt turpis. Nam fermentum odio ut iaculis fermentum. Suspendisse non tortor est. Ut faucibus metus nulla, ac mollis libero ultrices eu. 
+      </p><p>
+      Suspendisse potenti. Praesent et hendrerit tellus, in ornare tortor. Cras eleifend varius lorem, sit amet molestie enim gravida vel. Proin laoreet in ipsum at vehicula. Curabitur nec nisl cursus, vehicula massa id, eleifend dui. Phasellus scelerisque porttitor mattis.
+    </p>
+<!-- ---- / ---- / ---- -->
+     
+     
+     
+<!-- ---- // * SUB-TITLE (3) * // ---- -->
+      <h5 class="mt-2" style="font-weight: 500;color: #D19487">
+        <i class="fad fa-bookmark ml-1"></i>
+        Sub-title
+        </h5>
+      <hr class="mx-0 mb-1 mt-n1" style="opacity: .4; border-color: white">
+      
+    <p>
+      Interdum et malesuada fames ac ante ipsum primis in faucibus. <br>
+      Sed eu accumsan mi.
+    </p>
+<!-- ---- / ---- / ---- -->
+     
+     
+     
+     
+<!-- ---- // * STORY BANNER IMAGE * // ---- -->
+     <div class="card mt-2" style="height: 80px; background-image: url(
+
+https://images.unsplash.com/photo-1500817487388-039e623edc21
+
+    );background-position: center; background-size: cover;
+    border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; border-color: #1A0D10">
+   </div>
+   
+<!-- ---- // * SECONDARY TITLE * // ---- --> 
+        <div class="card mb-2 text-center py-2 text-uppercase"
+          style="background: #250E1A;
+          
+          height: 40px; letter-spacing: 1.6px; font-family: Cambria Math;
+          font-weight: 600; border-top-right-radius: 0px; border-top-left-radius: 0px;color: #FDF0D5; border-color: #1A0D10">
+          Secondary title
+        </div>
+<!-- ---- / ---- / ---- -->
+     
+     
+     
+<!-- ---- // * SECONDARY SUB-TITLE (1) * // ---- -->
+      <h5 class="mt-2" style="font-weight: 500;color: #D19487">
+        <i class="fad fa-bookmark ml-1"></i>
+        Sub-title
+        </h5>
+      <hr class="mx-0 mb-1 mt-n1" style="opacity: .4; border-color: white">
+      
+    <p>
+      Interdum et malesuada fames ac ante ipsum primis in faucibus.
+      Sed eu accumsan mi. Sed feugiat magna vitae quam aliquam viverra. Mauris rutrum lobortis eros ac facilisis.
+    </p>
+<!-- ---- / ---- / ---- -->
+     
+     
+     
+<!-- ---- // * SECONDARY SUB-TITLE (2) * // ---- -->
+      <h5 class="mt-2" style="font-weight: 500;color: #D19487">
+        <i class="fad fa-bookmark ml-1"></i>
+        Sub-title
+        </h5>
+      <hr class="mx-0 mb-1 mt-n1" style="opacity: .4; border-color: white">
+      
+    <p>
+      Integer porttitor ullamcorper lacus, eget tincidunt orci commodo non. Nunc placerat eros nec magna ullamcorper, vel pharetra velit dapibus.
+    </p>
+<!-- ---- / ---- / ---- -->
+   
+   
+   
+<!-- COPY & PASTE THE NEEDED SECTIONS FOR MORE -->
+   
+<!-- v Paste below v -->
+ 
+ 
+ 
+ 
+ 
+<!-- ^ Paste above ^ -->
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ---- /|/ ---- -->
+
+
+
+
+
+<!-- ---- //| SOCIAL TAB |// ---- -->
+      <div class="tab-pane fade" id="social">
+        <div class="tab-content">
+          
+          <div style="overflow-y: auto; max-height: 400px">
+            <div class="card m-0 p-2" style="min-height: 400px;
+            border-top-left-radius: 0px; border-bottom-left-radius: 0px;
+            background: #462335">
+              
+              <p class="text-right" style="font-size: 19px; letter-spacing: 1.6px">
+                Social
+                <i class="fal fa-family" style="color:#D19487"></i>
+              </p>
+              <hr class="m-0 mb-2" style="opacity: .4; border-color: white">
+              
+              
+              
+        <div class="row no-gutters">
+              
+              
+              
+<!-- ---- // * | RELATIONSHIP 1 | * // ---- -->
+           
+          <div class="card col-3" style="background: #EFAC59">
+            <div class="card p-1" style="background: #250E1A">
+
+<!-- ---- // * CHARACTER 1 PHOTO * // ---- -->
+            <div class="card" style="height: 110px; background-image: url(
+
+https://images.unsplash.com/photo-1500817487388-039e623edc21
+
+    );background-position: center; background-size: cover;">
+            </div>
+          </div>
+        </div>
+          <div class="card col-8 mx-auto" style="max-height: 121px;
+          background: #371A29; border-color: #1A0D10">
+            <div class="row no-gutters">
+              
+<!-- ---- // * CHARACTER 1 NAME * // ---- -->
+              <p class="col-auto pl-2" style="color:#EFAC59">Name Last</p>
+            
+          <div class="col mx-2 my-auto"><hr class="my-0"
+          style="opacity: .4; border-color: white">
+          </div><div class="col-auto pl-0 pr-2 my-auto">
+            
+<!-- ---- // * RELATION TO CHARACTER 1 * // ---- -->
+            <span class="pr-2" style="color:#EFAC59">Relationship</span>
+          </div>
+        </div>
+         
+<!-- ---- // * DESCRIPTION * // ---- -->
+         <div class="card px-2 border-0"
+         style="font-size: 12px; max-height: 100px; overflow-y: auto;
+         background: #250E1A"> 
+         
+         <p>Morbi sed purus consectetur, facilisis orci et, pretium dolor. In sit amet nunc orci. Quisque nisl massa, eleifend rhoncus enim mollis, placerat porta lacus. </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada commodo semper. Vestibulum consectetur nulla nulla, et porttitor nisi tempor nec. Praesent lobortis quam sapien, in viverra leo commodo nec.</p>
+         
+         </div>
+        </div>
+        
+    <div class="card w-100 text-muted border-0 mt-1" style="background: #462335"><div class="row no-gutters">
+      <div class="col-3 text-center" style="color: #D19487">
+      Connection:
+      </div><div class="my-auto mx-auto col-8">
+          
+<!-- ---- // * CONNECTION / BOND * // ---- -->
+        <div class="progress"
+        style="background: #371A29">
+                                    <!-- v CHANGE WIDTH HERE v -->
+          <div class="progress-bar" style="width:  50%
+          ;height:5px; background: #EFAC59"></div>
+        </div>
+      </div>
+    </div>
+      </div>
+<!-- ---- / -- || -- / ---- -->
+      
+     
+     
+     
+     
+<hr class="mx-0 my-4">
+     
+     
+     
+     
+     
+<!-- ---- // * | RELATIONSHIP 2 | * // ---- -->
+           
+          <div class="card col-3" style="background-color:#EFAC59">
+            <div class="card p-1" style="background: #250E1A">
+
+<!-- ---- // * CHARACTER 2 PHOTO * // ---- -->
+            <div class="card" style="height: 110px; background-image: url(
+
+https://images.unsplash.com/photo-1500817487388-039e623edc21
+
+    );background-position: center; background-size: cover;">
+            </div>
+          </div>
+        </div>
+          <div class="card col-8 mx-auto" style="max-height: 121px;
+          background: #371A29; border-color: #1A0D10">
+            <div class="row no-gutters">
+              
+<!-- ---- // * CHARACTER 2 NAME * // ---- -->
+              <p class="col-auto pl-2" style="color:#EFAC59">Name Last</p>
+            
+          <div class="col mx-2 my-auto"><hr class="my-0"
+          style="opacity: .4; border-color: white">
+          </div><div class="col-auto pl-0 pr-2 my-auto">
+            
+<!-- ---- // * RELATION TO CHARACTER 2 * // ---- -->
+            <span class="pr-2" style="color:#EFAC59">Relationship</span>
+          </div>
+        </div>
+         
+<!-- ---- // * DESCRIPTION * // ---- -->
+         <div class="card px-2 border-0"
+         style="font-size: 12px; max-height: 100px; overflow-y: auto;
+         background: #250E1A">
+         
+         <p>Morbi sed purus consectetur, facilisis orci et, pretium dolor. In sit amet nunc orci. Quisque nisl massa, eleifend rhoncus enim mollis, placerat porta lacus. </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada commodo semper. Vestibulum consectetur nulla nulla, et porttitor nisi tempor nec. Praesent lobortis quam sapien, in viverra leo commodo nec.</p>
+         
+         </div>
+        </div>
+        
+    <div class="card w-100 text-muted border-0 mt-1" style="background: #462335"><div class="row no-gutters">
+      <div class="col-3 text-center" style="color: #D19487">
+      Connection:
+      </div><div class="my-auto mx-auto col-8">
+          
+<!-- ---- // * CONNECTION / BOND 2 * // ---- -->
+        <div class="progress"
+        style="background: #371A29">
+                                    <!-- v CHANGE WIDTH HERE v -->
+          <div class="progress-bar" style="width:  50%
+          ;height:5px; background: #EFAC59"></div>
+        </div>
+      </div>
+    </div>
+      </div>
+<!-- ---- / -- || -- / ---- -->
+       
+     
+     
+     
+     
+<hr class="mx-0 my-4">
+     
+     
+     
+     
+     
+<!-- ---- // * | RELATIONSHIP 3 | * // ---- -->
+           
+          <div class="card col-3" style="background-color:#EFAC59">
+            <div class="card p-1" style="background: #250E1A">
+
+<!-- ---- // * CHARACTER 3 PHOTO * // ---- -->
+            <div class="card" style="height: 110px; background-image: url(
+
+https://images.unsplash.com/photo-1500817487388-039e623edc21
+
+    );background-position: center; background-size: cover;">
+            </div>
+          </div>
+        </div>
+          <div class="card col-8 mx-auto" style="max-height: 121px;
+          background: #371A29; border-color: #1A0D10">
+            <div class="row no-gutters">
+              
+<!-- ---- // * CHARACTER 3 NAME * // ---- -->
+              <p class="col-auto pl-2" style="color:#EFAC59">Name Last</p>
+            
+          <div class="col mx-2 my-auto"><hr class="my-0"
+          style="opacity: .4; border-color: white">
+          </div><div class="col-auto pl-0 pr-2 my-auto">
+            
+<!-- ---- // * RELATION TO CHARACTER 3 * // ---- -->
+            <span class="pr-2" style="color:#EFAC59">Relationship</span>
+          </div>
+        </div>
+         
+<!-- ---- // * DESCRIPTION * // ---- -->
+         <div class="card px-2 border-0"
+         style="font-size: 12px; max-height: 100px; overflow-y: auto;
+         background: #250E1A"> 
+         
+         <p>Morbi sed purus consectetur, facilisis orci et, pretium dolor. In sit amet nunc orci. Quisque nisl massa, eleifend rhoncus enim mollis, placerat porta lacus. </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada commodo semper. Vestibulum consectetur nulla nulla, et porttitor nisi tempor nec. Praesent lobortis quam sapien, in viverra leo commodo nec.</p>
+         
+         </div>
+        </div>
+        
+    <div class="card w-100 text-muted border-0 mt-1" style="background: #462335"><div class="row no-gutters">
+      <div class="col-3 text-center" style="color: #D19487">
+      Connection:
+      </div><div class="my-auto mx-auto col-8">
+          
+<!-- ---- // * CONNECTION / BOND 3 * // ---- -->
+        <div class="progress"
+        style="background: #371A29">
+                                    <!-- v CHANGE WIDTH HERE v -->
+          <div class="progress-bar" style="width:  50%
+          ;height:5px; background: #EFAC59"></div>
+        </div>
+      </div>
+    </div>
+      </div>
+<!-- ---- / -- || -- / ---- -->
+
+
+<!-- ---- COPY & PASTE WITH THE DIVIDER <hr class="mx-0 my-4"> ---- -->
+
+<!-- v Paste below v -->
+
+
+ 
+ 
+<!-- ^ Paste above ^ -->
+       </div>
+         </div>
+        </div>
+      </div>
+<!-- ---- /|/ ---- -->     
+   
+    </div>
+  </div>
+ </div>
+   </div>
+   
+     </div>
+       </div>
+      <div class="mx-auto text-right" style="max-width: 990px">
+      
+<!-------- : CREDIT : please do not remove : -------->  
+      <a href="/Kunstmaskin" class="tooltipster text-secondary" title="Code by Kunstmaskin" style="opacity:.69; font-family:Helvetica; text-decoration: none">code<i class="far fa-paw-claws text-secondary p-1" style="transform:rotate(16deg);font-size:14px;"></i></a>
+      </div>
+    </div>
+<!---- -- ---- \\ CODE END \\ ---- -- ---->
+  </div>
+</div>
+  
+
+  
