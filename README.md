@@ -6,7 +6,7 @@
 
 ---
 
-> Feel free to ask me for help on any code. Just know my replies might be slow, if im offline. On the occasion that you aquire assitance quickly, please reach out to me directly.
+> Feel free to ask me for help on any code. Just know my replies might be slow, if im offline. On the occasion that you aquire assitance quickly, please reach out to me directly at [kunstkodem@gmail.com](mailto:kunstkodem@gmail.com).
 > <br>
 
 > Should you come across a bug, please file an [issue](https://github.com/Kunstmaskin/ToyhouseFull/issues/new/choose) listing the code and problem. It would help me immensely.
